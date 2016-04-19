@@ -1,0 +1,1072 @@
+3270220004608	100720	Birome BIC común y Dolche (cualquier color)	unidad		2.5	1.00	6			3/9/15	14	15/6/15	Librería
+7798135146023	100721	Lápiz negro Katana	unidad				5			3/9/15	36	15/6/15	Librería
+7798000081022	100722	Lápiz negro Simball	unidad				5			3/9/15	22	15/6/15	Librería
+7891360550273	100723	Lápiz negro Faber Castell	unidad				5			3/9/15	32	15/6/15	Librería
+3270220004608	100724	Lápiz negro BIC Evolution (cuerpo verde)	unidad		1.399166667	1.00	4			3/9/15		15/6/15	Librería
+70330415225	100725	Lápices color BIC x6 cortos	unidad		6	1.00	18			3/9/15	6	15/6/15	Librería
+70330411906	100726	Lápices color BIC x12 cortos	unidad		11	1.00	32			3/9/15	2	15/6/15	Librería
+7798000081053	100727	Lápices color x12 cort Simball	unidad		8.99	0.60	22			3/9/15	1	15/6/15	Librería
+	100728	Lápices color x12 largos Simball	unidad		12.5	1.00	36			3/9/15		15/6/15	Librería
+7798139810320	100729	Crayones x6 corto PlayColor	unidad		6.98	0.70	18			3/9/15	3	15/6/15	Librería
+7798000080643	100730	Fibras/marcador Simball x6	unidad		8.79	0.70	23			3/9/15		15/6/15	Librería
+7791762429071	100731	Cuaderno Éxito tapa dura 48h	unidad			1.00	34			3/9/15	23	15/6/15	Librería
+7792216155348	100732	Cuaderno Rivadavia araña tapa dura 50 hojas	unidad		25.3	0.60	61			3/9/15		15/6/15	Librería
+7792216002161	100733	Cuaderno Laprida/Éxito 50h cuadiculado/rayado	unidad		19.99	0.60	46			3/9/15	5	15/6/15	Librería
+7791762110092	100734	Cuaderno Gloria 84h tapa flexible rayado	unidad		11.6	0.60	27			3/9/15		15/6/15	Librería
+7791762110078	100735	Cuaderno Gloria tapa flexible x48 rayado	unidad		3.5	1.50	14			3/9/15	17	15/6/15	Librería
+333320	333320	Carpeta común negra 3x40	unidad		13.98	0.80	36			3/9/15	9	15/6/15	Librería
+79385	79385	Carpeta Centauro color n3	unidad		29.8	0.60	70			3/9/15	1	15/6/15	Librería
+79501	79501	Carpeta n3 2 tapas fantasía 	unidad		30	0.80	80			3/9/15		15/6/15	Librería
+7792216193210	100736	Block 80h A4 América cuadriculado/rayado	unidad		13.9	0.60	34			3/9/15	3	15/6/15	Librería
+7792216041641	100737	Repuesto 48h Rivadavia cuadriculado	unidad			1.00	35			3/9/15	3	15/6/15	Librería
+7791762480423	100738	Repuesto 96h Éxito reforzado cuadriculado	unidad			1.00	55			3/9/15	3	15/6/15	Librería
+7791762480560	100739	Repuesto 288h Éxito reforzado cuadriculado	unidad		67.99	0.60	161			3/9/15		15/6/15	Librería
+7791762486265	100740	Repuesto 288h Éxito rayado	unidad		56.99	0.60	135			3/9/15		15/6/15	Librería
+79180	79180	Papel para forrar suelto fantasía	unidad		3	2.00	14			3/9/15		15/6/15	Librería
+7796893000250	100741	Folio escolar cualquier tamaño	unidad		1	1.00	3			3/9/15	350	15/6/15	Librería
+7794360087568	100742	Goma borrar Faber lápiz económica	unidad		0.75	1.00	2			3/9/15	20	15/6/15	Librería
+7896342411122	100743	Goma borrar roja/azul	unidad		1	1.00	3			3/9/15	91	15/6/15	Librería
+7793198531007	100744	Goma borrar pizzini mio blanca	unidad		3.29	0.60	8			3/9/15		15/6/15	Librería
+3154145117103	100745	Goma borrar maped lap/tin 	unidad		4	0.60	9			3/9/15		15/6/15	Librería
+4004764286386	100746	Palitos de madera x50 unidades	unidad		8	1.50	30			3/9/15		15/6/15	Librería
+4895054510201	100747	Tijera chica económica	unidad		3	1.00	9			3/9/15	1	15/6/15	Librería
+3154141377020	100748	Tijera maped vivo 12cm 3 D	unidad		8	0.60	19			3/9/15	6	15/6/15	Librería
+79414	79414	Escuadra 12cm transparente/color	unidad		2	2.00	9			3/9/15	7	15/6/15	Librería
+3154141461224	100749	Escuadra 20cm transparente/color	unidad		3	2.00	14			3/9/15	8	15/6/15	Librería
+79315	79315	Regla 15cm maped transparente	unidad		2.5	1.00	8			3/9/15	6	15/6/15	Librería
+3154141468100	100750	Regla 20cm transparente	unidad		2.5	1.00	8			3/9/15	12	15/6/15	Librería
+3154141468193	100751	Regla 30cm transparente	unidad		3.2	1.00	9			3/9/15	17	15/6/15	Librería
+79097	79097	Transportador plastico maped	unidad		2.3	1.00	8			3/9/15	4	15/6/15	Librería
+3154141463600	100752	Transportador plastico 360 grados	unidad		6	1.00	18			3/9/15	2	15/6/15	Librería
+3154140632113	100753	Sacapunta maped vivo/boogy plast	unidad		1.1	1.50	4			3/9/15		15/6/15	Librería
+7798000089950	100754	Corrector simball taiko	unidad		6	0.60	15			17/2/02	2	15/6/15	Librería
+7798000080896	100755	Marcador grueso micro 550	unidad		7.69	0.70	20			3/9/15		15/6/15	Librería
+7798000086768	100756	Resaltador margi 2000 micro	unidad		7.49	0.70	19			3/9/15		15/6/15	Librería
+7792533009973	100757	Argolla carpeta x2 gr50mm	unidad		2.98	0.70	8			3/9/15		15/6/15	Librería
+7792971620969	100758	Cinta adhesiva chica económica y Scotch	unidad		2.39	0.70	7			3/9/15	21	15/6/15	Librería
+7790400010503	100759	Boligoma adhesivo 30ml	unidad		2.99	0.70	8			3/9/15		15/6/15	Librería
+	100760	Mochila azul y rosada (hello kitty y bakucan)	unidad		60	0.70	151			3/9/15	2	15/6/15	Librería
+	100761	Alambre Acindar redondo 2.2mm res. Alta x1000m	rollo	880	972.4	0.60	2106			3/9/15		15/6/15	Corralón y pintura
+	100762	Alambre Púa Cal.16. dist. 101mm. Pampero. ACER	rollo		450	0.44	1890			3/9/15		15/6/15	Corralón y pintura
+	100763	Alambre atar 14. fino	Kg	19.47	23.5587	0.60	51			3/9/15		15/6/15	Corralón y pintura
+	100764	Alambre atar 17.  grueso	Kg	18.36	22.2156	0.60	47			3/9/15		15/6/15	Corralón y pintura
+	100765	Torniquete Mini	unidad		13	1.00	45			3/9/15		15/6/15	Corralón y pintura
+	100766	Tejido Romboidal RS.10M- 200-50-12	Rollo		438.64	0.41	1593			3/9/15		15/6/15	Corralón y pintura
+7792261007845	100767	Convertidor + esmalte brillante x 1L - Venier	litro		167	0.30	444			3/9/15	2	15/6/15	Corralón y pintura
+	100768	Esmalte Sintético Brillante Venier x1L	litro		94.22	0.45	272			3/9/15	5	15/6/15	Corralón y pintura
+	100769	Barniz marino int/ext 900cc Precernol	litro	62.5	52.9375	0.60	149			3/9/15	3	15/6/15	Corralón y pintura
+7792261003212	100770	Barniz Sintético Venier x1L	litro		86.5	0.35	254			3/9/15	1	15/6/15	Corralón y pintura
+	100771	Aerosol Pintura Krylon 284gr	unidad		64	0.35	236			3/9/15		15/6/15	Corralón y pintura
+	100772	Aerosol Pintura Krylon Blanco 170gr	unidad		45	0.35	162			3/9/15		15/6/15	Corralón y pintura
+	100773	Cemento Holcim Fuerte x50kg	bolsa		84.16	0.40	130			3/9/15		15/6/15	Corralón y pintura
+7798053731905	100774	Weber impermeable x30kg	bolsa		89.21	0.80	274			3/9/15	3	15/6/15	Corralón y pintura
+	100775	Cal común x25kg	bolsa		31.79	0.75	70			3/9/15		15/6/15	Corralón y pintura
+	100776	Yeso Corral	bolsa		53	0.30	116			3/9/15	8	15/6/15	Corralón y pintura
+	100777	Membrana Aluminio MegaFlex no-crack flexible 400 35kg	rollo		359	0.65	878			3/9/15	10	15/6/15	Corralón y pintura
+	100778	Membrana Blanca MegaFlex no-crack flexible 400 35kg	rollo		401	0.65	986			3/9/15	6	15/6/15	Corralón y pintura
+	100779	Brea Alquitrán  x18kg	unidad		178	0.70	432			3/9/15	1	15/6/15	Corralón y pintura
+	100780	Balde albañil plástico	unidad	17.11	14.49217	1.00	51			3/9/15		15/6/15	Corralón y pintura
+	100781	Cuchara albañil	unidad		38.5	0.60	154			3/9/15		15/6/15	Corralón y pintura
+	100782	Fratacho madera algarrobo 40x12cm	unidad		34.4	1.00	143			3/9/15	6	15/6/15	Corralón y pintura
+	100783	Fratacho plástico con fieltro 25cm	unidad	9.771	8.276037	1.20	27			3/9/15	15	15/6/15	Corralón y pintura
+	100784	Llana dentada mango plástico 6x6	unidad	30.474	25.811478	1.00	94			3/9/15	4	15/6/15	Corralón y pintura
+	100785	Thinner	litro		20	0.30	47			3/9/15		15/6/15	Corralón y pintura
+	100786	Cadena patente zincada 45	Kg		54	0.45	179			3/9/15	9	15/6/15	Corralón y pintura
+	100787	Plástico/geomembrana 500um 1mx4m (metro lineal)	metro		44.3	1.00	197	1 rollo 50mx4m	0.20	3/9/15	120	15/6/15	Corralón y pintura
+	100788	Tela cerco 2mts ancho por metro lineal	metro	8.58	10.3818	0.60	34			3/9/15		15/6/15	Corralón y pintura
+	100789	Tela media sombra Sylver 90% verde-negra 4.2m ancho	metro	38.75	38.75	0.80	93			17/8/15	50	15/6/15	Corralón y pintura
+	100790	Tela media sombra 80% negra 4.2m ancho	metro	26.5	26.5	0.90	66			17/8/15	50	15/6/15	Corralón y pintura
+	100791	Tela media sombra 65% negra 4.2m ancho	metro	17	17	1.00	47			17/8/15	150	15/6/15	Corralón y pintura
+	100792	Nylon transparente 150 micrones x 7.20m ancho	metro	60	60	0.80	146			17/8/15	138	15/6/15	Corralón y pintura
+	100793	Lija tela 120	unidad	11	9.317	1.00	30			3/9/15	74	15/6/15	Corralón y pintura
+	100794	Lija tela 80	unidad		7.95	0.90	29			3/9/15	6	15/6/15	Corralón y pintura
+	100795	Lija agua papel cs 280	unidad		5.4	0.85	19			3/9/15	4	15/6/15	Corralón y pintura
+	100796	Lija agua papel cs 220	unidad		5.4	0.85	19			3/9/15		15/6/15	Corralón y pintura
+	100797	Lija agua papel cs 180	unidad		5.4	0.85	19			3/9/15		15/6/15	Corralón y pintura
+	100798	Lija agua papel cs 150	unidad		3.16	2.00	19			3/9/15	30	15/6/15	Corralón y pintura
+	100799	Lija agua papel cs 80	unidad		3.16	2.00	19			3/9/15	15	15/6/15	Corralón y pintura
+	100800	Cinta papel pintor Doble A 12mm x 50m	unidad		12.7	0.42	40			3/9/15		15/6/15	Corralón y pintura
+	100801	Cinta papel pintor Rapifix 12mm x 50m	unidad	8.549	7.241003	1.70	31			3/9/15		15/6/15	Corralón y pintura
+	100802	Cinta papel pintor Doble A 18mm x 50m	unidad		15.4	0.43	46			3/9/15		15/6/15	Corralón y pintura
+	100803	Cinta papel pintor Doble A 24mm x 50m	unidad		19.1	0.48	61			3/9/15		15/6/15	Corralón y pintura
+	100804	Cinta papel pintor Rapifix 24mm x 50m	unidad	17.42	14.75474	0.80	47			3/9/15		15/6/15	Corralón y pintura
+	100805	Cinta papel pintor Doble A 36mm x 50m	unidad		24	0.49	72			3/9/15		15/6/15	Corralón y pintura
+	100806	Cinta papel pintor Rapifix 36mm x 50m	unidad	25.655	21.729785	0.90	69			3/9/15		15/6/15	Corralón y pintura
+7790817550241	100807	Cinta papel azul obra pintor Rapifix 24mm x 50m	unidad	22.6	19.1422	0.70	53			3/9/15	24	15/6/15	Corralón y pintura
+7790817550487	100808	Cinta papel azul obra pintor Rapifix 48mm x 50m	unidad	45.2	38.2844	0.70	107			3/9/15	5	15/6/15	Corralón y pintura
+	100809	Cinta papel azul obra pintor Doble A 24mm x 50m	unidad		22	0.49	62			3/9/15		15/6/15	Corralón y pintura
+7798039291409	100810	Cinta Teflón 1/2x10	unidad	2.69	2.27843	2.00	12			3/9/15	7	15/6/15	Corralón y pintura
+7798039291423	100811	Cinta Teflón 3/4x10	unidad	4.34	3.67598	2.00	22			3/9/15	10	15/6/15	Corralón y pintura
+	100812	Cinta Ipsoband autoadhesiva 50mmx10m aluminio y espuma	unidad		34.81	0.55	112			3/9/15		15/6/15	Corralón y pintura
+	100813	Pintura Latex WeekEnd Interior 4L	unidad		82.5	0.46	293			3/9/15		15/6/15	Corralón y pintura
+	100814	Pintura Latex WeekEnd Exterior 4L	unidad		135.14	0.46	378			3/9/15		15/6/15	Corralón y pintura
+	100815	Pintura Latex WeekEnd Interior/Exterior 4L	unidad		103	0.46	310			3/9/15		15/6/15	Corralón y pintura
+	100816	Pintura Latex WeekEnd Interior/Exterior 20L	unidad		408	0.31	1125			3/9/15		15/6/15	Corralón y pintura
+7792952015937	100817	Fibrado Sinteplast blanco 1kg	unidad		41.95	0.50	154			3/9/15	1	15/6/15	Corralón y pintura
+	100818	Entonador 30cm3 Sherwin Williams KemColor	unidad		11.7	1.00	44			3/9/15	28	15/6/15	Corralón y pintura
+	100819	Entonador 120cm3 Sherwin Williams KemColor	unidad		30	1.00	101			3/9/15	3	15/6/15	Corralón y pintura
+	100820	Fijador Venier 1litro	unidad		29.8	0.42	100			3/9/15		15/6/15	Corralón y pintura
+7792261003090	100821	Enduido plástico Alba/Venier 1kg	unidad		38.95	0.47	97			3/9/15	1	15/6/15	Corralón y pintura
+7798005012458	100822	Cubeta de pintor	unidad		28.95	0.66	102			3/9/15	1	15/6/15	Corralón y pintura
+	100823	Pincel 351/10 Galgo	unidad	26.06	22.151	0.60	62			3/9/15		15/6/15	Corralón y pintura
+	100824	Pincel 351/15 Galgo	unidad	32.03	27.2255	0.60	76			3/9/15		15/6/15	Corralón y pintura
+7798034443469	100825	Pincel 351/25 Galgo	unidad	56.36	47.906	0.60	133			3/9/15	4	15/6/15	Corralón y pintura
+	100826	Pincel 10 (1\")	unidad		12	0.79	33			3/9/15		15/6/15	Corralón y pintura
+	100827	Pincel 15 (1 1/2\")	unidad		18	0.64	50			3/9/15		15/6/15	Corralón y pintura
+	100828	Pincel 20 sintético	unidad		34	0.40	102			3/9/15		15/6/15	Corralón y pintura
+7791756088406	100829	Pincel 40 brocha Cazador grey	unidad		47	0.40	148			3/9/15	1	15/6/15	Corralón y pintura
+7791756005205	100830	Kit mini-rodillo + repuesto #10	unidad		29.5	0.77	99			3/9/15	1	15/6/15	Corralón y pintura
+	100831	Rodillo mini 10 Cazador	unidad		10.19	0.77	46			3/9/15		15/6/15	Corralón y pintura
+7798034446033	100832	Rodillo 17cm Galgo multiuso	unidad		40.43	0.40	137			3/9/15	2	15/6/15	Corralón y pintura
+	100833	Rodillo El Cazador superficies suaves	unidad		47.4	0.40	153			3/9/15		15/6/15	Corralón y pintura
+	100834	Rodillo lana 22cm Cazador	unidad		80.86	0.50	218			3/9/15		15/6/15	Corralón y pintura
+	100835	Rodillo lana 22cm Galgo	unidad		74.7	0.40	288			3/9/15		15/6/15	Corralón y pintura
+	100836	Soga plástica N10	metro	4	3.388	1.20	13			3/9/15		15/6/15	Corralón y pintura
+	100837	Soga plástica N8	metro	2.8	2.3716	2.00	10			3/9/15	50	15/6/15	Corralón y pintura
+	100838	Soga plástica N6	metro	0.9	0.7623	2.00	9			3/9/15	150	15/6/15	Corralón y pintura
+	100839	Soga plástica N5	metro	0.9	0.7623	2.00	7			3/9/15		15/6/15	Corralón y pintura
+	100840	Soga plástica N3	metro	0.8225	0.6966575	2.00	5			3/9/15		15/6/15	Corralón y pintura
+	100841	Tanza para motoguadaña/bordeadora Dibra redonda 2mm	metro		0.6	3.00	5			3/9/15	100	15/6/15	Corralón y pintura
+	100842	Tanza para motoguadaña/bordeadora redonda 3mm	metro	1.3	1.1011	3.00	9			3/9/15	600	15/6/15	Corralón y pintura
+7798162699721	100843	Espátula 75mm Robust	unidad		20.4	0.47	69			3/9/15	1	15/6/15	Corralón y pintura
+	100844	Espátula SD rectificada pro 5 c/madera	unidad		22.166	0.47	76			3/9/15		15/6/15	Corralón y pintura
+	100845	Espátula SD rectificada pro 9 c/madera	unidad		27.289	0.47	95			3/9/15		15/6/15	Corralón y pintura
+	100846	Herradura acanalada p/trabajo c/clip pesada x4u n0	bolsa	90.367	76.540849	0.60	176			3/9/15		15/6/15	Corralón y pintura
+	100847	Herradura acanalada p/trabajo c/clip pesada x4u n1	bolsa	91.367	77.387849	1.60	176			3/9/15		15/6/15	Corralón y pintura
+	100848	Herradura acanalada p/trabajo c/clip pesada x4u n2	bolsa	92.367	78.234849	2.60	176			3/9/15	4	15/6/15	Corralón y pintura
+	100849	Herradura acanalada p/trabajo c/clip pesada x4u n3	bolsa	93.367	79.081849	3.60	176			3/9/15	3	15/6/15	Corralón y pintura
+	100850	Herradura acanalada p/trabajo c/clip pesada x4u n4	bolsa	94.367	79.928849	4.60	176			3/9/15	4	15/6/15	Corralón y pintura
+	100851	Herradura acanalada pesada x4u n0/n1/n2/n3	bolsa	71.52	60.57744	0.60	170			3/9/15		15/6/15	Corralón y pintura
+	100852	Clavo p/herrar derby E2 41mm 	unidad		0.5	1.00	2			3/9/15		15/6/15	Corralón y pintura
+	100853	Clavo p/herrar derby 45mm 	unidad	0.768	0.650496	1.00	2			3/9/15		15/6/15	Corralón y pintura
+	100854	Clavo p/herrar Mustad 45mm 	unidad			1.00	2			3/9/15	122	15/6/15	Corralón y pintura
+	100855	Clavo p/herrar Mustad E4 47mm 	unidad	0.868	0.735196	1.00	2			3/9/15		15/6/15	Corralón y pintura
+	100856	Clavo p/herrar derby 54mm 	unidad	1	0.847	1.00	3			3/9/15	100	15/6/15	Corralón y pintura
+	100857	Pastina Klaukol Alta performance Blanca 1kg	unidad		23.5	0.70	85			3/9/15		15/6/15	Corralón y pintura
+	100858	Pastina Klaukol 1kg	unidad		14.4	0.70	62			3/9/15		15/6/15	Corralón y pintura
+	100859	Machete Pulido Biassoni	unidad	78.63	66.59961	0.70	195			3/9/15		15/6/15	Corralón y pintura
+7798102252122	100860	Pala Forjada punta corazón con manija Biassoni	unidad		202	0.53	636			3/9/15	1	15/6/15	Corralón y pintura
+	100861	Pala Forjada punta corazón larga cabo recto Gherardi	unidad	400.259	339.019373	0.65	949			3/9/15		15/6/15	Corralón y pintura
+7797091023010	100862	Pico Punta y Hacha s/cabo forjado Gherardi 75mm	unidad		214	0.50	655			3/9/15	1	15/6/15	Corralón y pintura
+	100863	Hacha forjada Biassoni Tumba con cabo	unidad		305.57	0.50	949			3/9/15		15/6/15	Corralón y pintura
+7797091034016	100864	Azada mendocina n2 de 2 1/2	unidad		157.85	0.50	510			3/9/15	2	15/6/15	Corralón y pintura
+	100865	Cabo p/pala 1.2m recto	unidad	38.56	32.66032	0.80	104			3/9/15		15/6/15	Corralón y pintura
+	100866	Cabo p/pico 90cm gherardi	unidad	43.33333333	36.70333333	0.80	114			3/9/15	5	15/6/15	Corralón y pintura
+	100867	Cabo p/hacha de 90cm recto	unidad	36.16666667	30.63316667	0.80	92			3/9/15		15/6/15	Corralón y pintura
+	100868	Cabo p/azada mendocina	unidad		50	0.20	147			3/9/15		15/6/15	Corralón y pintura
+	LA20	Parche para cámara Brio LA 20	unidad	0.288888889	0.349555556	5.00	3			3/9/15	264	15/6/15	Motos y autos
+	LA30	Parche para cámara Brio LA 30	unidad	0.428571429	0.518571429	5.00	4			3/9/15	259	15/6/15	Motos y autos
+	LA40	Parche para cámara Brio LA 40	unidad	0.552083333	0.668020833	5.00	6			3/9/15	151	15/6/15	Motos y autos
+	LA55	Parche para cámara Brio LA 55	unidad	1.275	1.54275	3.00	9			3/9/15	15	15/6/15	Motos y autos
+	LA101	Parche para cubierta Brio LA 101	unidad	1.9	2.299	3.00	13			3/9/15	80	15/6/15	Motos y autos
+	100079	Cemento Precurex x10ml	unidad	4.416666667	5.344166667	3.00	30			3/9/15	2	15/6/15	Motos y autos
+	100080	Cemento Precurex x20ml	unidad	6.208333333	7.512083333	3.00	43			3/9/15	7	15/6/15	Motos y autos
+	100081	Cemento Brio x250cm3	unidad	65	78.65	1.00	213			3/9/15	1	15/6/15	Motos y autos
+	100082	Agua destilada x1L Del Free	unidad		3.5	3.00	29			3/9/15		15/6/15	Motos y autos
+	100083	Agua destilada x5L 	unidad		21.95	0.60	59			3/9/15	2	15/6/15	Motos y autos
+YXC011	100084	Cámara moto  400/450x8	unidad		88	0.50	258			3/9/15	2	15/6/15	Motos y autos
+	100085	Cámara moto Yuanxing 275/300x14	unidad	29.37	35.5377	1.50	150			3/9/15		15/6/15	Motos y autos
+	100086	Cámara moto  275/300x14	unidad		56	0.40	171			3/9/15		15/6/15	Motos y autos
+YXC017	100087	Cámara moto  Yuanxing 300/325x14	unidad	28.39	34.3519	2.00	173			3/9/15	4	15/6/15	Motos y autos
+	100088	Cámara moto  130/90x15	unidad		64	0.50	194			3/9/15		15/6/15	Motos y autos
+YXC007	100089	Cámara moto  Yuanxing 225/250x16	unidad	25.19	30.4799	1.50	127			3/9/15	5	15/6/15	Motos y autos
+	100090	Cámara moto  225/275x16	unidad		56	0.50	171			3/9/15		15/6/15	Motos y autos
+YXC013	100091	Cámara moto  Yuanxing 300/325x16	unidad	36.67	44.3707	1.50	192			3/9/15	7	15/6/15	Motos y autos
+	100092	Cámara moto  Yuanxing 225/250x17	unidad	26.26	31.7746	1.50	134			3/9/15		15/6/15	Motos y autos
+	100093	Cámara moto Yuanxing  275x17	unidad	31.24	37.8004	1.50	160			3/9/15		15/6/15	Motos y autos
+	100094	Cámara moto  Yuanxing 300x17	unidad	32.13	38.8773	1.50	163			3/9/15		15/6/15	Motos y autos
+YXC018	100095	Cámara moto  400/500x17	unidad		60	0.40	197			3/9/15	6	15/6/15	Motos y autos
+	100096	Cámara moto  450/500x17	unidad		90	0.40	245			3/9/15		15/6/15	Motos y autos
+	100097	Cámara moto Michelin 275x17	unidad		70	0.50	233			3/9/15		15/6/15	Motos y autos
+	100098	Cámara moto  Yuanxing 90/90x18	unidad	33	39.93	1.50	166			3/9/15		15/6/15	Motos y autos
+	100099	Cámara moto  Yuanxing 250/275x18	unidad	30.62	37.0502	1.50	155			3/9/15		15/6/15	Motos y autos
+	100100	Cámara moto Yuanxing  300x18	unidad	34.8	42.108	1.30	163			3/9/15		15/6/15	Motos y autos
+	100101	Cámara moto Yuanxing 350x18	unidad	39.43	47.7103	1.30	184			3/9/15		15/6/15	Motos y autos
+	100102	Cámara moto 325/350x18	unidad		64	0.50	194			3/9/15		15/6/15	Motos y autos
+	100103	Cámara moto Yuanxin 410/460x18	unidad	43.97	53.2037	1.30	202			3/9/15		15/6/15	Motos y autos
+YXC014	100104	Cámara moto Yuanxin 225x19	unidad	27.5	33.275	1.50	142			3/9/15	4	15/6/15	Motos y autos
+YXC015	100105	Cámara moto Yuanxin 350x19	unidad	36.67	44.3707	1.50	184			3/9/15	4	15/6/15	Motos y autos
+YXC010	100106	Cámara moto Yuanxin 80/90x21	unidad	40.32	48.7872	1.30	191			3/9/15	1	15/6/15	Motos y autos
+	100107	Cámara moto Yuanxin 275/300x21	unidad		76	0.50	218			3/9/15		15/6/15	Motos y autos
+	100108	Aceite Elaion F10 15W40 x1L (auto/camioneta/camión)	unidad	61.98	74.9958	0.80	182			3/9/15		15/6/15	Motos y autos
+	100109	Aceite Elaion Moto 4T x1L 20W50	unidad	37.19	44.9999	0.80	100			3/9/15		15/6/15	Motos y autos
+7790968001036	100110	Aceite Elaion Moto 2T x1L	unidad	42.98	52.0058	0.80	121			3/9/15	1	15/6/15	Motos y autos
+7790968001012	100111	Aceite Elaion Moto 2T x100cc	unidad	8.26	9.9946	0.80	22			3/9/15	25	15/6/15	Motos y autos
+	100112	Elaion Moto Cadena 220ml	unidad	34.71	41.9991	0.80	87						Motos y autos
+	100113	Kriox 3 inorgánico (refrigerante)	unidad	62.81	76.0001	0.80	159						Motos y autos
+	100114	Líquido de frenos HID. T3	unidad	14.05	17.0005	0.80	37						Motos y autos
+	100115	Aceite freno y embrague AMA tipo3 dot3 x200ml	unidad		17	1.00	82			3/9/15		15/6/15	Motos y autos
+	100116	Lubricante cadena W90	unidad		51.95	0.60	139			3/9/15		15/6/15	Motos y autos
+	100117	Lámpara Focus 6V 5W S8.5 T11x39	unidad	0.89	1.0769	3.00	8			3/9/15	4	15/6/15	Motos y autos
+	100118	Lámpara Focus 6V 25/25W P15D T19	unidad	1.87	2.2627	3.00	15			3/9/15	4	15/6/15	Motos y autos
+	100119	Lámpara Focus 12V 10W BA15S G18 Vidrio azul	unidad	0.89	1.0769	3.00	8			3/9/15		15/6/15	Motos y autos
+	100120	Lámpara de giro Sinlete	unidad		3	1.00	18			3/9/15		15/6/15	Motos y autos
+	100121	Lámpara de stop Sinlete	unidad		3	1.50	23			3/9/15		15/6/15	Motos y autos
+	100122	Lámpara delantera 35/35W	unidad		12	1.00	57			3/9/15		15/6/15	Motos y autos
+	100123	Lámpara delantera 45/45W	unidad		13	1.10	65			3/9/15		15/6/15	Motos y autos
+	100124	Lámpara delantera Sinlete H4 35/35W	unidad		15	1.00	72			3/9/15	1	15/6/15	Motos y autos
+	100125	Bujía NGK 2120 D8EA	unidad		20	0.75	85			3/9/15		15/6/15	Motos y autos
+7897707505517	100126	Bujía C7HSA 4629	unidad		28	0.60	91			3/9/15	1	15/6/15	Motos y autos
+87295132289	100127	Bujía C6HSA 3228	unidad		33.6	0.60	111			3/9/15	3	15/6/15	Motos y autos
+	100128	Bujía mini-cuatri P15 Wega	unidad		52.8	0.60	171			3/9/15	1	15/6/15	Motos y autos
+87295141113	100129	Bujía BP5 4111	unidad		36	0.60	117			3/9/15	3	15/6/15	Motos y autos
+87295124123	100130	Bujía BP7 2412	unidad		36	0.60	117			3/9/15	4	15/6/15	Motos y autos
+	100131	Cable embrague moto completo TODAS LAS MARCAS	unidad	14	16.94	2.00	83			3/9/15	40	15/6/15	Motos y autos
+	100132	Cable embrague moto interior Universal grande/chico	unidad	2.7	3.267	3.00	25			3/9/15	18	15/6/15	Motos y autos
+	100133	Cable freno moto completo TODAS MARCAS delant./trasero	unidad	16	19.36	2.00	98			3/9/15	40	15/6/15	Motos y autos
+	100134	Cable acelerador moto completo TODAS MARCAS	unidad	12	14.52	2.00	75			3/9/15	40	15/6/15	Motos y autos
+	100135	Lámpara portátil de taller plástica 12Volt	unidad		54.11	0.60	187			3/9/15		15/6/15	Motos y autos
+	100136	Pulpo elástico SetTensores x2	unidad		23	0.60	95			3/9/15		15/6/15	Motos y autos
+	100137	Pinito Maxi Pino FreeSur	unidad		10.4	0.60	41			3/9/15		15/6/15	Motos y autos
+	100138	Bastidor Civil/Jonica/Zen/Luminic 10x5 3	unidad	5.582	5.741087	1.00	16			3/9/15	41	15/6/15	Electricidad
+	100139	Kalop Tapa Civil Blanco 3 Módulos	unidad	5.582	5.741087	1.00	16			3/9/15	25	15/6/15	Electricidad
+	100140	Kalop Tapa Donna Blanco 3 módulos	unidad		4.54	0.60	12			3/9/15		15/6/15	Electricidad
+7793863406500	100141	Kalop armado 1 punto	unidad			0.60	60			3/9/15	3	15/6/15	Electricidad
+7793863406517	100142	Kalop armado 2 puntos	unidad			0.60	70			3/9/15	1	15/6/15	Electricidad
+	100143	Kalop módulo Punto Blanco	unidad	12.306	12.656721	0.90	35			3/9/15	26	15/6/15	Electricidad
+	100144	Kalop módulo toma c/tierra 10A blanco	unidad	12.158	13.240062	0.70	31			3/9/15	20	15/6/15	Electricidad
+	100145	Kalop módulo tapón blanco	unidad	1.277	1.390653	1.50	5			3/9/15	8	15/6/15	Electricidad
+	100146	Kalop módulo toma doble bip c/tierra blanco	unidad	25.028	25.741298	0.60	55			3/9/15	8	15/6/15	Electricidad
+7798039535107	100147	Caja rectangular plástica de superficie blanca Genrod	unidad		8.53	0.60	23			3/9/15	16	15/6/15	Electricidad
+	100148	Caja rectangular chapa 10x5cm 20	unidad		2.5	1.00	9			3/9/15	2	15/6/15	Electricidad
+	100149	Caja octogonal chapa chica 20 8cm	unidad		2.5	1.00	9			3/9/15	6	15/6/15	Electricidad
+	100150	Caja octogonal chapa grande	unidad		7.2	0.60	20			3/9/15	10	15/6/15	Electricidad
+	100151	Caja octogonal plástico grande 	unidad			0.60	25			3/9/15	2	15/6/15	Electricidad
+7798138240759	100152	Caja IP40 PVC 6P Ext Tapa 159x140x90	unidad		70	0.40	167			3/9/15	1	15/6/15	Electricidad
+7798138240841	100153	Caja IP40 PVC 6P Emb Tapa 158x140x88	unidad		60	0.50	154			3/9/15	1	15/6/15	Electricidad
+	100154	Cable bipolar paralelo 1.5mm2 blanco	metro		4.03	0.60	11	rollo x100m	0.10	3/9/15	40	15/6/15	Electricidad
+	100155	Cable tipo taller 3x1mm2	metro	5.58	5.73903	0.83	18	rollo x100m	0.10	3/9/15	50	15/6/15	Electricidad
+	100156	Cable tipo taller 3x1.5mm2	metro		5.45	0.83	17	rollo x100m	0.10	3/9/15		15/6/15	Electricidad
+	100157	Cable unipolar 2.5mm2 celeste	metro	3.467	3.775563	1.00	13	rollo x100m	0.10	3/9/15	50	15/6/15	Electricidad
+	100158	Cable unipolar 2.5mm2 rojo	metro	3.467	3.775563	1.00	13	rollo x100m	0.10	3/9/15	2	15/6/15	Electricidad
+	100159	Cable unipolar 2.5mm2 negro	metro	3.467	3.775563	1.00	13	rollo x100m	0.10	3/9/15	150	15/6/15	Electricidad
+	100160	Cable unipolar 1.5mm2 verde/amarillo	metro	2.16	2.35224	1.00	8	rollo x100m	0.10	3/9/15	90	15/6/15	Electricidad
+	100161	Cable UTP 3M Volition cat5e interior	metro		3.79	1.00	13			3/9/15	50	15/6/15	Electricidad
+	100162	Cable telefónico/portero 1 par interior	metro		0.85	1.00	3			3/9/15	150	15/6/15	Electricidad
+	100163	Adaptador 2p redondas a 3p	unidad		8	0.80	25			3/9/15	6	15/6/15	Electricidad
+	100164	Adaptador 2p planas a 3p	unidad		8	0.80	25			3/9/15		15/6/15	Electricidad
+	100165	Enchufe Richi ficha macho 10A 3P.Chatos Fir.Sal.Lat Marf 283	unidad	11.834	12.887226	0.71	30			3/9/15	30	15/6/15	Electricidad
+	100166	Enchufe Richi ficha hembra 10A con toma tierra Marf 287	unidad	9.484	10.328076	0.75	24			3/9/15	47	15/6/15	Electricidad
+	100167	Enchufe Richi ficha macho 20A 3p chatos marfil	unidad		10.71	0.87	33			3/9/15	4	15/6/15	Electricidad
+	100168	Zapatilla Richi prolongador 5 tomas c/cable 1.5m term mf	unidad		64	0.50	159			3/9/15		15/6/15	Electricidad
+	100169	Zapatilla Richi prolongador 5 tomas c/cable 2.5m term mf	unidad	95.62	98.34517	0.50	245			3/9/15		15/6/15	Electricidad
+	100170	Base 2 tomas Richi multiples marfil s/cable 455	unidad		24.4	0.44	58			3/9/15		15/6/15	Electricidad
+	100171	Cambre módulo toma 20A c/tierra -2-blanco	unidad		16.34	0.72	47			3/9/15		15/6/15	Electricidad
+	100172	Cambre capuchón 2módulos blanco	unidad		5.56	0.80	17			3/9/15		15/6/15	Electricidad
+7798039292406	100173	Cinta aisladora Tacsa Flex-Pro180 10mx19mmx0.18	unidad			0.60	35			3/9/15	5	15/6/15	Electricidad
+7798039292505	100174	Cinta aisladora Tacsa Flex-Pro180 20mx19mmx0.18	unidad	13.83	14.224155	0.70	45			3/9/15	1	15/6/15	Electricidad
+7792840002308	100175	Cinta aisladora 3M económica 19x20mts negra	unidad			0.70	51			3/9/15	3	15/6/15	Electricidad
+7792840002315	100176	Cinta aisladora 3M Scotch 770 19x20mts negra	unidad	21.756	22.376046	0.70	51			3/9/15	40	15/6/15	Electricidad
+7798039290846	100177	Cinta autosoldable caucho Tacsa 19mmx4.57m Negra	unidad				30			3/9/15	4	15/6/15	Electricidad
+	100178	Portalámpara E27 p/intemperie c/cable 12	unidad	9.788	10.066958	1.50	43			3/9/15	44	15/6/15	Electricidad
+	100179	Lámpara Phillips Genie bajo consumo 11W Luz Clara	unidad		24	0.60	62			3/9/15		15/6/15	Electricidad
+	100180	Lámpara Phillips EcoHome bajo consumo 14W Luz Clara	unidad	27.31	28.088335	0.80	81			3/9/15		15/6/15	Electricidad
+	100181	Lámpara Phillips EcoHome bajo consumo 18W Luz Clara	unidad	29.58	30.42303	0.80	88			3/9/15		15/6/15	Electricidad
+	100182	Lámpara Phillips Genie bajo consumo 18W	unidad		28	0.70	8			3/9/15		15/6/15	Electricidad
+	100183	Lámpara Alic/Lumenac Bajo Consumo 20W 3U Luz cálida 2700k	unidad	45.75	47.053875	0.55	80			3/9/15		15/6/15	Electricidad
+8710163405445	100184	Lámpara Philips Twister Bajo Consumo 20W E27 CDL	unidad	40.831	41.9946835	0.60	90			3/9/15	10	15/6/15	Electricidad
+	100185	Lámpara Alic Bajo Consumo 26W 3U Luz día 6700k	unidad	34	34.969	0.55	85			3/9/15		15/6/15	Electricidad
+8718291720751	100186	Lámpara Halógena Philips clara classic 42W	unidad	12.34	12.69169	1.00	42			3/9/15	80	15/6/15	Electricidad
+8718291720775	100187	Lámpara Halógena Philips clara classic 53W	unidad	12.95	13.319075	1.00	42			3/9/15	24	15/6/15	Electricidad
+4008321977342	100188	Lámpara Halógena OSRAM clara classic 42W	unidad	12.34	12.69169	1.00	42			3/9/15	13	15/6/15	Electricidad
+	100189	Lámpara Halógena OSRAM clara classic 53W	unidad	12.95	13.319075	1.00	42			3/9/15		15/6/15	Electricidad
+	100190	Lámpara Halógena Alic clara 42W A19 E27	unidad	11.725	12.768525	0.80	31			3/9/15		15/6/15	Electricidad
+7798118818770	100191	Lámpara Halógena Alic clara 53W A19 E27	unidad	11.725	12.768525	1.20	38			3/9/15	30	15/6/15	Electricidad
+7793981007139	100192	Luminaria recargable 40 LEDs GAMASonic	unidad	227.36	233.83976	0.45	563			3/9/15	2	15/6/15	Electricidad
+	100193	Luz emergencia Atomlux 30 LEDs aut. 18/24hs	unidad		211	0.70	596			3/9/15		15/6/15	Electricidad
+4016779632966	100194	Térmico 1P10A 4.5KA Curva C - Siemens/ABB	unidad	54.966	56.532531	0.45	136			3/9/15	2	15/6/15	Electricidad
+	100195	Térmico 1P16A 4.5KA Curva C - Siemens/ABB	unidad	54.966	56.532531	0.55	146			3/9/15		15/6/15	Electricidad
+	100196	Térmico 1P20A 4.5KA Curva C - Siemens/ABB	unidad	54.966	56.532531	0.65	155			3/9/15		15/6/15	Electricidad
+	100197	Térmico 2P10A 3KA Curva C - Siemens/ABB	unidad		77	0.50	192			3/9/15		15/6/15	Electricidad
+	100198	Térmico 2P16A 3KA Curva C - Siemens/ABB	unidad		77	0.50	192			3/9/15		15/6/15	Electricidad
+	100199	Disyuntor diferencial 2P40A 30mA Sika	unidad		210	0.40	488			3/9/15		15/6/15	Electricidad
+8711500902993	100200	Arrancador s-10 p/tubo 4A 65W 220V Phillips	unidad		2.5	2.00	12			3/9/15	21	15/6/15	Electricidad
+	100201	Cinta pasacable 10m plástica Kalop	unidad		28.7	0.70	81			3/9/15		15/6/15	Electricidad
+7798039534407	100202	Manguera corrugada 1\" Tubelectric 	metro		3.08	1.00	10	rollo x25m	0.15	3/9/15	1	15/6/15	Electricidad
+	100203	Manguera corrugada 3/4\"  	metro	2.27	2.334695	1.00	8	rollo x25m	0.15	3/9/15		15/6/15	Electricidad
+	100204	Manguera corrugada 1/2\" celeste Kaliplas 	metro		1.852	1.00	6	rollo x25m	0.15	3/9/15		15/6/15	Electricidad
+7798039534353	100205	Adhesivo tubelectric 100ml	unidad		20.55	0.60	55			3/9/15	2	15/6/15	Electricidad
+	100206	Curva PVC 3/4 tubelectric	unidad		4.1	0.70	12			3/9/15		15/6/15	Electricidad
+	100207	Curva PVC 5/8 tubelectric	unidad		3.8	0.70	11			3/9/15	5	15/6/15	Electricidad
+7798039534070	100208	Unión PVC 5/8 tubelectric x4	bolsa		7.4	1.00	25			3/9/15	2	15/6/15	Electricidad
+7798039535824	100209	Unión PVC 1\" tubelectric x2	bolsa		4.6	1.00	15			3/9/15	2	15/6/15	Electricidad
+7798039535961	100210	Conector 7/8 tubelectric x2	bolsa		8.95	0.80	27			3/9/15	2	15/6/15	Electricidad
+	100211	Conector 3/4 tubelectric x4	bolsa		10.7	1.00	36			3/9/15		15/6/15	Electricidad
+	100212	Grampa 3/4 tubelectric x4	bolsa		7.4	1.00	25			3/9/15		15/6/15	Electricidad
+7798039536012	100213	Grampa 5/8 tubelectric x4	bolsa		7.2	1.00	24			3/9/15	20	15/6/15	Electricidad
+	100214	Pincel cerda p/mecánico N2	unidad	16.108	13.643476	0.80	44			3/9/15	12	15/6/15	Ferretería
+	100215	Pincel cerda p/mecánico N3	unidad	21.102	17.873394	0.80	58			3/9/15		15/6/15	Ferretería
+	100216	Pincel cerda p/mecánico N4	unidad	23.62	20.00614	0.80	63			3/9/15	11	15/6/15	Ferretería
+	100217	Arco de sierra profesional Lin 35	unidad		79	0.65	292			3/9/15		15/6/15	Ferretería
+	100218	Arco sierra junior profesional ElAbuelo	unidad		67.32	0.50	228			3/9/15		15/6/15	Ferretería
+	100219	Hoja de sierra junior robust x10	unidad		50	1.00	211			3/9/15		15/6/15	Ferretería
+	100220	Hoja de sierra a/rap 300x12.7x32dts SinPar HSS	unidad	16.22	13.73834	1.00	50			3/9/15		15/6/15	Ferretería
+	100221	Hoja de sierra a/rap 300x12.7x18dts SinPar HSS	unidad	16.22	13.73834	1.00	50			3/9/15		15/6/15	Ferretería
+	100222	Candado de bronce 30mm 505	unidad		45	0.70	156			3/9/15		15/6/15	Ferretería
+7796010220677	100223	Candado de bronce 40mm 505	unidad	80.408	68.105576	0.70	239			3/9/15	4	15/6/15	Ferretería
+	100224	Candado de bronce doble traba 60mm Prive	unidad		131	0.70	462			3/9/15		15/6/15	Ferretería
+	100225	Cerradura 200 Caja derecha 140x63 F 220x25 PRIVE	unidad	119.3	101.0471	1.00	355			3/9/15		15/6/15	Ferretería
+	100226	Cerradura 902 C 63.5x127 F 20x185 Zinc ROA / PRIVE 207	unidad	109	92.323	1.00	349			3/9/15		15/6/15	Ferretería
+	100227	Cerradura 903 C 63.5x127 F 20x215 Zinc ROA	unidad	125.6	106.3832	1.00	374			3/9/15		15/6/15	Ferretería
+7797679107446	100228	Pasador tipo resorte	unidad		38.95	0.60	106			3/9/15	2	15/6/15	Ferretería
+7797679137429	100229	Pasador tipo resorte 46mm 	unidad		61.95	0.60	169			3/9/15	1	15/6/15	Ferretería
+	100230	Pasador porta-candado forjado 38x3	unidad		91	0.50	279			3/9/15	2	15/6/15	Ferretería
+7797679933953	100231	Portacandado charolado 3	unidad		12.6	0.60	42			3/9/15	6	15/6/15	Ferretería
+7797679933960	100232	Portacandado charolado 4	unidad		15.4	0.60	55			3/9/15	9	15/6/15	Ferretería
+7797679940616	100233	Cadena de seguridad ho cro 55x29x21	unidad		54.38	0.45	164			3/9/15	2	15/6/15	Ferretería
+797679733492	100234	Aldaba con base enganche zinc 	unidad		18.8	0.55	74			3/9/15	2	15/6/15	Ferretería
+	100235	Manija ministerio D/B BCE Pulido 3404 LUPUM	unidad	52.761	44.688567	0.80	130			3/9/15		15/6/15	Ferretería
+	100236	Manija chinchina girat bronce pulido 3510 LUPUM	unidad	28.708	24.315676	0.80	77			3/9/15	10	15/6/15	Ferretería
+	100237	Pomela doble 80x55 der/izq bronce pulido 5302 LUPUM	unidad	52.185	44.200695	0.70	131			3/9/15		15/6/15	Ferretería
+	100238	Bisagra ficha 51mm x2	unidad		19.89	0.70	81			3/9/15		15/6/15	Ferretería
+7797679902270	100239	Bisagra forjada atornillar 32x3x3	unidad		78	0.50	236			3/9/15	4	15/6/15	Ferretería
+	100240	Tijera p/podar 24cm forjada Biassoni	unidad	160	135.52	0.60	372			3/9/15	3	15/6/15	Ferretería
+411151202227	100241	Disco de corte 115x1.2x22.2 SIN-PAR	unidad	11.44	9.68968	0.70	28			3/9/15	9	15/6/15	Ferretería
+	100242	Disco de corte Mayerot p/metal 7\"x3.2 (p'amoladora grande)	unidad		13.47	0.80	53			3/9/15	1	15/6/15	Ferretería
+413503202541	100243	Disco de corte para sensitiva Sinpar 350x3.2x25.4	unidad	48.829	41.358163	0.60	126			3/9/15	3	15/6/15	Ferretería
+271156002228	100244	Disco de amolar p/desbastar 115x6x22.2 SIN-PAR	unidad	14.68	12.43396	0.80	40			3/9/15	2	15/6/15	Ferretería
+3165140523646	100245	Disco de amolar Skil 7\"	unidad		27	0.50	95			3/9/15	2	15/6/15	Ferretería
+	100246	Disco diamantado DeWalt ranur 4 5 dw47450L	unidad		60.19	0.50	211			3/9/15		15/6/15	Ferretería
+	100247	Disco diamantado turbo de 4 1/2\" Diamantec	unidad		53.3	0.60	209			3/9/15		15/6/15	Ferretería
+	100248	Disco Flap Bosch 60	unidad		30	0.70	123			3/9/15		15/6/15	Ferretería
+	100249	Disco Flap Bosch 80	unidad		38	0.70	151			3/9/15		15/6/15	Ferretería
+7798145201088	100250	Gafas seguridad	unidad		20	0.50	81			3/9/15	2	15/6/15	Ferretería
+	100251	Casco seguridad amarillo Saylens N/IRAM	unidad		25	1.00	103			3/9/15	5	15/6/15	Ferretería
+	100252	Válvula esférica metálica importada 1/2\"	unidad	43.96	37.366	0.60	106			3/9/15	5	15/6/15	Ferretería
+2011032056	100253	Válvula esférica metálica importada 3/4\"	unidad	62.6	53.21	0.60	150			3/9/15	1	15/6/15	Ferretería
+7798102316404	100254	Válvula esférica paso Valforte Platinum Total HH RF-Plus 1/2\"	unidad		52.5	0.40	140			3/9/15	2	15/6/15	Ferretería
+	100255	Válvula esférica paso Valforte Platinum Total HH RF-Plus 3/4\"	unidad		72.6	0.40	189			3/9/15	1	15/6/15	Ferretería
+7798102316107	100256	Válvula esférica plástica LatynPlast 1/2\"	unidad		19.95	0.50	61			3/9/15	2	15/6/15	Ferretería
+7798102316114	100257	Válvula esférica plástica LatynPlast 3/4\"	unidad		23.4	0.70	81			3/9/15	1	15/6/15	Ferretería
+	100258	Canilla esférica metálica importada 1/2\"	unidad		23.4	0.70	133			3/9/15		15/6/15	Ferretería
+	100259	Canilla esférica metálica importada 3/4\"	unidad	55.1	46.835	0.60	174			3/9/15	1	15/6/15	Ferretería
+	100260	Canilla esférica metálica Forjada LT-Plus 1/2\" MAN	unidad	74.63	63.4355	0.60	179			3/9/15		15/6/15	Ferretería
+7796908028576	100261	Canilla esférica metálica Forjada LT-Plus 3/4\" MAN	unidad		61.3	0.40	264			3/9/15	1	15/6/15	Ferretería
+	100262	Canilla esférica plástica Latyn Plast 1/2\"	unidad		91.3	0.40	63			3/9/15		15/6/15	Ferretería
+	100263	Canilla esférica plástica Latyn Plast 3/4\"	unidad		18.95	0.40	75			3/9/15		15/6/15	Ferretería
+	100264	Guantes descarne gris	par		19.95	0.40	68			3/9/15	6	15/6/15	Ferretería
+	100265	Guantes descarne amarillo	par	25.149	21.301203	0.70	96			3/9/15	6	15/6/15	Ferretería
+	100266	Guantes moteados blanco-azul	par	35.098	29.728006	0.70	25			3/9/15	10	15/6/15	Ferretería
+7792048008263	100267	Guantes goma liviano n11-n10-n9	par	5.952	5.041344	1.50	70			3/9/15	33	15/6/15	Ferretería
+	100268	Guantes latex industrial SteelPro	par	29.91	25.33377	0.60	81			3/9/15		15/6/15	Ferretería
+7798158243303	100269	Guantes soldador KVLR SteelPro	par		18.15	0.93	259			3/9/15	1	15/6/15	Ferretería
+	100270	Delantal soldador descarne con plomo	unidad		70	0.57	370			3/9/15	1	15/6/15	Ferretería
+	100271	Electrodo Conarco c-13 2.5mm	Kg		99.22	0.92	121			3/9/15	19	15/6/15	Ferretería
+	100272	Electrodo Conarco c-13 3.2mm	Kg	42.63	51.5823	0.60	110			3/9/15	10	15/6/15	Ferretería
+	100273	Hilo polipropileno blanco	bobina	30.56	36.9776	0.60	65			3/9/15	48	15/6/15	Ferretería
+	100274	Hilo ancho para tutor negro 	bobina		17.51	0.70	96			3/9/15	3	15/6/15	Ferretería
+	100275	Hilo cáñamo/choricero ovillo x50gr	bobina	25	30.25	0.60	38			3/9/15		15/6/15	Ferretería
+	100276	Cabo p/lima plástico n3 (gris)	unidad	7.68	6.50496	2.00	35			3/9/15	6	15/6/15	Ferretería
+	100277	Cabo p/lima plástico n1 (celeste)	unidad	12.281	10.402007	0.70	30			3/9/15	12	15/6/15	Ferretería
+	100278	Lima paralela media fina de 15 cms	unidad	10.143	8.591121	0.70	35			3/9/15	1	15/6/15	Ferretería
+	100279	Lima paralela bastarda de 15 cms	unidad	12.276	10.397772	0.70	33			3/9/15		15/6/15	Ferretería
+	100280	Lima paralela bastarda de 25 cms	unidad	11.484	9.726948	0.70	55			3/9/15	1	15/6/15	Ferretería
+	100281	Lima redonda bastarda de 15 cms	unidad	19.8	16.7706	0.70	30			3/9/15		15/6/15	Ferretería
+	100282	Lima redonda bastarda de 25 cms	unidad	9.9	8.3853	0.70	53			3/9/15		15/6/15	Ferretería
+	100283	Lima redonda media fina 15 cms	unidad	19.8	16.7706	0.70	33			3/9/15	4	15/6/15	Ferretería
+	100284	Lima redonda media fina 25 cms	unidad	11.88	10.06236	0.70	58			3/9/15	5	15/6/15	Ferretería
+7792971000020	100285	Cinta ancha transparente embalar - Mercosur Tape 48mmx100m	unidad	20.79	17.60913	0.70	45			31/8/15	6	15/6/15	Ferretería
+7798039298590	100286	Cinta ancha tela DUCTAC Multip. Tacsa 48mmx9m B/N/R/G	unidad	11.98	14.4958	0.70	78			3/9/15	2	15/6/15	Ferretería
+	100287	Cinta ancha tela DUCTAC Multip. Tacsa 48mmx28m B/N/R/G	unidad	35.27	29.87369	0.80	163			3/9/15		15/6/15	Ferretería
+	100288	Mecha acero rápido 2mm DeWalt x2	unidad		45.33	0.60	61			3/9/15		15/6/15	Ferretería
+	100289	Mecha acero rápido 2.5mm DeWalt x2	unidad		14.4	0.52	65			3/9/15		15/6/15	Ferretería
+	100290	Mecha acero rápido 3.25mm DeWalt	unidad		15	0.52	47			3/9/15		15/6/15	Ferretería
+	100291	Mecha acero rápido 3.5mm DeWalt	unidad		15.81	0.52	50			3/9/15		15/6/15	Ferretería
+28877376820	100292	Mecha acero rápido 4mm DeWalt	unidad		16.4	0.52	58			3/9/15	1	15/6/15	Ferretería
+	100293	Mecha acero rápido 4.5mm DeWalt	unidad		19.95	0.52	66			3/9/15		15/6/15	Ferretería
+7896525081791	100294	Mecha acero rápido 5mm DeWalt	unidad		22.95	0.52	76			3/9/15	1	15/6/15	Ferretería
+	100295	Mecha acero rápido 5.5mm DeWalt	unidad		25.5	0.55	81			3/9/15		15/6/15	Ferretería
+28877376905	100296	Mecha acero rápido 6mm	unidad		18	0.52	91			3/9/15	1	15/6/15	Ferretería
+28877376912	100297	Mecha acero rápido 6.25mm	unidad		31.28	0.50	96			3/9/15	1	15/6/15	Ferretería
+28877376929	100298	Mecha acero rápido 6.5mm	unidad		22	0.46	103			3/9/15	1	15/6/15	Ferretería
+28877376943	100299	Mecha acero rápido 7mm	unidad		22	0.50	115			3/9/15	2	15/6/15	Ferretería
+28877376967	100300	Mecha acero rápido 7.5mm	unidad		39.71	0.50	126			3/9/15	1	15/6/15	Ferretería
+28877376981	100301	Mecha acero rápido 8mm	unidad		32.55	0.45	135			3/9/15	1	15/6/15	Ferretería
+28877376998	100302	Mecha acero rápido 8.25mm	unidad		37	0.38	140			3/9/15	2	15/6/15	Ferretería
+28877377001	100303	Mecha acero rápido 8.5mm	unidad		38.5	0.37	13			3/9/15	1	15/6/15	Ferretería
+	100304	Mecha acero rápido 10mm	unidad		49.5	0.35	156			3/9/15		15/6/15	Ferretería
+7798084820838	100305	Mecha pared 6mm	unidad		16.95	0.54	50			3/9/15	2	15/6/15	Ferretería
+	100306	Mecha pared 9mm	unidad		28.42	0.50	83			3/9/15		15/6/15	Ferretería
+	100307	Mecha pared 10mm	unidad		32.55	0.50	100			3/9/15		15/6/15	Ferretería
+7798102254904	100308	Mecha para madera dia 3/8\" corta 9.25mm Biassoni tal. elect.	unidad	43.963	37.236661	0.60	85			3/9/15	7	15/6/15	Ferretería
+7798102254669	100309	Mecha para madera dia 3/8\" corta 9.25mm Biassoni tal. Manual	unidad	40.046	33.918962	0.60	78			3/9/15	3	15/6/15	Ferretería
+	100310	Mecha para madera dia 3/8\" larga 250mm Biassoni tal. elect.	unidad		34.66	0.40	123			3/9/15		15/6/15	Ferretería
+	100311	Mecha para madera dia. 8mm. largo 200mm DeWalt	unidad		35	0.40	133			3/9/15		15/6/15	Ferretería
+	100312	Taladro carpintero de pecho sin criket Biassoni	unidad	391.815	331.867305	0.60	764			3/9/15	1	15/6/15	Ferretería
+	100313	Hoja para caladora para metal DeWalt	unidad		10	1.00	55			3/9/15	3	15/6/15	Ferretería
+	100314	Hoja para caladora para madera DeWalt	unidad		9	1.00	51			3/9/15		15/6/15	Ferretería
+	100315	Remache 3.5x12mm x50	bolsa		24.25	0.65	95			3/9/15	2	15/6/15	Ferretería
+	100316	Remache 3.5x12mm x10	bolsa		4.85	1.07	28			3/9/15	4	15/6/15	Ferretería
+	100317	Remache 4x14mm x50	bolsa		23.75	0.65	95			3/9/15		15/6/15	Ferretería
+	100318	Remache 4x14mm x10	bolsa		4.5	1.07	28			3/9/15		15/6/15	Ferretería
+	100319	Remache 4.8x14mm x10	unidad		7	1.50	45			3/9/15		15/6/15	Ferretería
+	100320	Arandela plana 3/16 x10	bolsa		3.62	1.50	25			3/9/15	3	15/6/15	Ferretería
+	100321	Arandela plana 5/16 x5	bolsa		3.25	1.50	20			3/9/15	1	15/6/15	Ferretería
+	100322	Arandela Grower 3/8 x5	bolsa		3.62	1.50	20			3/9/15	4	15/6/15	Ferretería
+	100323	Tuerca métrica 6 x10	bolsa		3	1.50	20			3/9/15	1	15/6/15	Ferretería
+	100324	Tuerca métrica 6 x50	bolsa		15	1.50	75			3/9/15	1	15/6/15	Ferretería
+	100325	Tuerca 1/4 (6.3mm) x10	bolsa		3.5	1.50	28			3/9/15		15/6/15	Ferretería
+	100326	Tuerca  1/4 (6.3mm) x50	bolsa		17.5	1.50	93			3/9/15	2	15/6/15	Ferretería
+	100327	Clavo espiralado 1 1/2\" x500gr	bolsa		10.345	1.42	65			3/9/15		15/6/15	Ferretería
+	100328	Clavo espiralado 1 1/2\" x100gr	bolsa		2.069	1.90	20			3/9/15		15/6/15	Ferretería
+	100329	Clavo espiralado 2\" x500gr	bolsa		10.765	1.32	58			3/9/15		15/6/15	Ferretería
+	100330	Clavo espiralado 2\" x100gr	bolsa		2.153	2.00	20			3/9/15		15/6/15	Ferretería
+	100331	Clavo espiralado 3\" x500gr	bolsa		9.82	1.24	56			3/9/15		15/6/15	Ferretería
+	100332	Clavo espiralado 3\" x100gr	bolsa		1.964	2.05	20			3/9/15		15/6/15	Ferretería
+	100333	Clavo liso cabeza chata Gerdau 8/16 x1kg	kg		13.09	2.00	95			3/9/15	3	15/6/15	Ferretería
+	100334	Clavo liso cabeza perdida 8/20 x1kg	kg		31.8	1.00	95			3/9/15	1	15/6/15	Ferretería
+	100335	Clavo liso punta parís 1\" x1kg	kg		21	1.00	95			3/9/15	3	15/6/15	Ferretería
+	100336	Clavo liso punta parís 1 1/2\" x1kg	kg		22	1.00	95			3/9/15	5	15/6/15	Ferretería
+	100337	Clavo liso punta parís 2\" Acindar/Gerdau x1kg	bolsa	20.54466667	17.40133267	1.50	64			3/9/15	9	15/6/15	Ferretería
+	100338	Clavo liso punta parís 2 1/2\" Acindar/Sipar x1kg	bolsa	19.90666667	16.86094667	2.00	83			3/9/15	8	15/6/15	Ferretería
+	100339	Clavo cabeza de plomo 3\" x100 unidades SIPAR	bolsa	38.431	32.551057	1.00	125			3/9/15	2	15/6/15	Ferretería
+	100340	Grampa blanca x50u n10	bolsa		20.5	0.40	63			3/9/15		15/6/15	Ferretería
+	100341	Grampa blanca x10u n10	bolsa		2.05	1.00	14			3/9/15	4	15/6/15	Ferretería
+	100342	Grampa redonda negra x20u n10	bolsa		13.4	0.45	51			3/9/15		15/6/15	Ferretería
+	100343	Crayon industrial blanco Dixon c/u	unidad	2.976	2.520672	3.00	20			3/9/15	8	15/6/15	Ferretería
+	100344	Grasa multiuso 250gr Max10	unidad	14.304	12.115488	1.00	50			3/9/15	6	15/6/15	Ferretería
+	100345	Cola sintética Fortex A20 x200gr extra c/pico	unidad	13.828	11.712316	1.00	46			3/9/15	1	15/6/15	Ferretería
+	100346	Cola sintética Fortex A20 x250gr extra 1/4	unidad		8.34	1.00	44			3/9/15	6	15/6/15	Ferretería
+	100347	Cola sintética Fortex A20 x500gr extra 1/4	unidad	23.587	19.978189	1.00	77			3/9/15	8	15/6/15	Ferretería
+	100348	Pitón zinc c/arandela met. Abierto 6mm x5	unidad	2.6	2.2022	3.00	20			3/9/15		15/6/15	Ferretería
+	100349	Pitón zinc c/arandela met. Cerrado 6mm x5	unidad	2.6	2.2022	3.00	20			3/9/15		15/6/15	Ferretería
+	100350	Pitón zinc c/arandela met. Escuadra 6mm x5	unidad	2.6	2.2022	3.00	20			3/9/15		15/6/15	Ferretería
+	100351	Tarugo 6x30mm sin tope x50	bolsa		6.65	2.00	44			3/9/15	10	15/6/15	Ferretería
+	100352	Tarugo 6x30mm sin tope x10	bolsa		1.33	2.75	16			3/9/15	6	15/6/15	Ferretería
+	100353	Tarugo 8x35mm sin tope x50	bolsa		14	1.50	77			3/9/15	9	15/6/15	Ferretería
+	100354	Tarugo 8x35mm sin tope x10	bolsa		5.63	1.75	35			3/9/15	8	15/6/15	Ferretería
+	100355	Tornillo madera autoperforante 6x1 1/2 D (3.8x38mm) x50	bolsa		13.3	0.88	66			3/9/15		15/6/15	Ferretería
+	100356	Tornillo madera autoperforante 6x1 1/2 D (3.8x38mm) x10	bolsa		2.5	1.25	17			3/9/15		15/6/15	Ferretería
+	100357	Tornillo madera autoperforante 8x1 3/4 D (4.5x44mm) x50	bolsa		22	0.88	105			3/9/15		15/6/15	Ferretería
+	100358	Tornillo madera autoperforante 8x1 3/4 D (4.5x44mm) x10	bolsa		4.4	1.25	28			3/9/15		15/6/15	Ferretería
+	100359	Tornillo aguja autoperforante 8x9/16 Z (4.2x14mm) x50	bolsa		8.4	1.41	55			3/9/15	2	15/6/15	Ferretería
+	100360	Tornillo aguja autoperforante 8x9/16 Z (4.2x14mm) x10	bolsa		1.7	2.00	16			3/9/15	1	15/6/15	Ferretería
+	100361	Tornillo autoperforante hex tipo 2 14x2 con goma x5	bolsa		10	1.00	46			3/9/15	5	15/6/15	Ferretería
+	100362	Tornillo phillips 6mm x 1\" x5	bolsa		5	1.00	46			3/9/15	3	15/6/15	Ferretería
+	100363	Bulón Hex ma 6x25 x10	bolsa		13.1	1.00	56			3/9/15		15/6/15	Ferretería
+	100364	Bulón Hex ma 6x25 con tuerca x5	bolsa		13.1	1.00	56			3/9/15		15/6/15	Ferretería
+	100365	Bulón Hex con tuerca 5/16 x 3 1/2 x2	bolsa		5.55	1.00	28			3/9/15		15/6/15	Ferretería
+	100366	Bulón con tuerca y grover 6mm 1\" x5	bolsa		8.5	1.00	38			3/9/15		15/6/15	Ferretería
+	100367	Bulón con tuerca. arandela y grover 8mm 1\" x3	bolsa		9	0.55	35			3/9/15		15/6/15	Ferretería
+	100368	Bulón con tuerca. arandela y grover 6mm 1\"1/2 x5	bolsa		12.5	0.60	46			3/9/15		15/6/15	Ferretería
+	100369	Bulón con tuerca. arandela y grover 8mm 1\"1/2 x3	bolsa		10	0.50	35			3/9/15		15/6/15	Ferretería
+	100370	Bulón con tuerca. arandela y grover 9.25mm 1\"1/2 x3	bolsa		12	0.50	38			3/9/15		15/6/15	Ferretería
+	100371	Media Omega 3/4\"	unidad		1.8	0.66	9			3/9/15	5	15/6/15	Ferretería
+	100372	Media Omega 1\"	unidad		2	1.00	11			3/9/15		15/6/15	Ferretería
+	100373	Media Omega 1 1/2\"	unidad		3	0.66	12			3/9/15	7	15/6/15	Ferretería
+	100374	Abrazadera Fleje 45/60mm-UN	unidad		9.7	0.55	35			3/9/15		15/6/15	Ferretería
+	100375	Abrazadera Fleje 30/40mm-UN	unidad		8.2	0.71	33			3/9/15	1	15/6/15	Ferretería
+	100376	Abrazadera Fleje 16/27mm-UN	unidad		8.76	0.48	32			3/9/15		15/6/15	Ferretería
+7890176044952	100377	Precinto 150x3.5mm	unidad		0.225	1.00	2			3/9/15	200	15/6/15	Ferretería
+	100378	Precinto 175x5mm	unidad		0.375	1.00	2			3/9/15		15/6/15	Ferretería
+7890176044976	100379	Precinto 202x4.6mm	unidad			1.00	2			3/9/15	320	15/6/15	Ferretería
+	100380	Precinto 245x4.6mm	unidad		0.5	1.00	2			3/9/15	20	15/6/15	Ferretería
+7798078590969	100381	Precinto 300x5mm	unidad		0.8	1.00	3			3/9/15	200	15/6/15	Ferretería
+	100382	Destornillador Juego x 6 piezas (negros) Celestal	unidad	224.43	190.09221	0.60	537			3/9/15		15/6/15	Ferretería
+	100383	Destornillador buscapolo ElAbuelo	unidad		21.5	0.52	74			3/9/15		15/6/15	Ferretería
+	100384	Destornillador plano Celestal 5036	unidad		25	0.52	93			3/9/15		15/6/15	Ferretería
+	100385	Destornillador plano Celestal 5030	unidad		20	0.50	66			3/9/15	1	15/6/15	Ferretería
+	100386	Destornillador phillips Celestal 5120	unidad		25	0.52	86			3/9/15		15/6/15	Ferretería
+	100387	Destornillador phillips Celestal 5110	unidad		20	0.50	66			3/9/15		15/6/15	Ferretería
+	100388	Destornillador plano Celestal chico de bolsillo	unidad		15	0.47	56			3/9/15		15/6/15	Ferretería
+	100389	Destornillador phillips Celestal chico de bolsillo	unidad		15	0.47	56			3/9/15		15/6/15	Ferretería
+	100390	Destornillador plano Celestal 4x100	unidad		26.52	0.36	83			3/9/15		15/6/15	Ferretería
+7790783030310	100391	Destornillador plano Celestal 5x150	unidad		39.78	0.31	115			3/9/15	1	15/6/15	Ferretería
+	100392	Destornillador plano Robust 6x100	unidad		26	0.54	95			3/9/15		15/6/15	Ferretería
+	100393	Destornillador Phillips Robust 2x100	unidad		26	0.54	95			3/9/15		15/6/15	Ferretería
+	100394	Destornillador Phillips Robust 3x150	unidad		26	0.92	116			3/9/15	1	15/6/15	Ferretería
+	100395	Cortahierro hexagonal Biassoni 30cm	unidad		64.482	0.50	204			3/9/15		15/6/15	Ferretería
+7798008935334	100396	Cinta métrica - Metro x3mts 505 Retroblock x17mm Evel	unidad	53	44.891	0.70	130			3/9/15	2	15/6/15	Ferretería
+	100397	Cinta métrica - Metro x5mts 505 Retroblock x17mm Evel	unidad	63.5	53.7845	0.70	158			3/9/15		15/6/15	Ferretería
+	100398	Juego llaves hexagonales ALLEN mm 9 piezas	unidad	70.89	60.04383	0.70	179			3/9/15		15/6/15	Ferretería
+	100399	Juego llaves hexagonales ALLEN pulg. 9 piezas	unidad	70.89	60.04383	0.70	179			3/9/15	1	15/6/15	Ferretería
+7790783021134	100400	Juego llaves hexagonales esféricas pulg. 9 piezas	unidad	153.17	129.73499	0.70	387			3/9/15	1	15/6/15	Ferretería
+	100401	Boquilla magnética Wembley 1/4\" x 65mm (p/taladro)	unidad	22.02	18.65094	1.00	66			3/9/15	4	15/6/15	Ferretería
+	100402	Boquilla magnética Wembley 5/16\" x 45mm (p/taladro)	unidad	20.44	17.31268	1.00	61			3/9/15	4	15/6/15	Ferretería
+	100403	Llave hexagonal 10mm Stanley	unidad		10	1.00	47			3/9/15		15/6/15	Ferretería
+	100404	Llave hexagonal 11mm Stanley	unidad		14	0.79	58			3/9/15		15/6/15	Ferretería
+	100405	Llave hexagonal 12mm Stanley	unidad		18	0.67	66			3/9/15		15/6/15	Ferretería
+	100406	Llave hexagonal 13mm Stanley	unidad		24	0.67	88			3/9/15		15/6/15	Ferretería
+	100407	Llave hexagonal 14mm Stanley	unidad		30	0.50	96			3/9/15		15/6/15	Ferretería
+	100408	Llave ajustable 8\"  Stanley 87-432	unidad		39	0.80	193			3/9/15		15/6/15	Ferretería
+	100409	Llave ajustable 8\" Biassoni	unidad		108.261	0.50	370			3/9/15		15/6/15	Ferretería
+	100410	Llave ajustable 10\" Biassoni	unidad		143.944	0.50	447			3/9/15		15/6/15	Ferretería
+	100411	Pinza punta 6\" Stanley 84-101	unidad		39	0.64	156			3/9/15		15/6/15	Ferretería
+	100412	Pinza punta 6\" Robust	unidad		26	0.92	115			3/9/15		15/6/15	Ferretería
+	100413	Pinza pico de loro Robust 10\"	unidad		67.72	0.50	221			3/9/15		15/6/15	Ferretería
+	100414	Pinza pico de loro regulable 10\" Biassoni	unidad	159.121	134.775487	0.50	404			3/9/15		15/6/15	Ferretería
+	100415	Pinza 8\" Stanley 84-023	unidad		39	0.64	145			3/9/15		15/6/15	Ferretería
+	100416	Alicate 6\" Stanley 84-105	unidad		39	0.64	145			3/9/15		15/6/15	Ferretería
+	100417	Alicate 6\" Robust	unidad		26	0.92	115			3/9/15		15/6/15	Ferretería
+	100418	Lubricante WD40 155gr	unidad	19.34	23.4014	0.80	81			3/9/15		15/6/15	Ferretería
+	100419	Lubricante WD40 311gr	unidad		39.17	0.52	145			3/9/15		15/6/15	Ferretería
+	100420	Tenaza P/Armador 9\" Biassoni 1/2 Corte-225mm	unidad	141.54	119.88438	0.60	339			3/9/15		15/6/15	Ferretería
+	100421	Cutter Robust 18mm	unidad		26	0.73	103			3/9/15		15/6/15	Ferretería
+	100422	Martillo galponero Robust 225grs	unidad		26	0.73	100			3/9/15		15/6/15	Ferretería
+	100423	Martillo galponero 27mm Tramontina Master	unidad		38.3	0.57	133			3/9/15		15/6/15	Ferretería
+	100424	Martillo galponero Mazzuca	unidad	79.065	66.968055	0.60	189			3/9/15	1	15/6/15	Ferretería
+	100425	Martillo carpintero n18 Mazzuca (rompe nueces)	unidad	36.66	31.05102	0.60	86			3/9/15	1	15/6/15	Ferretería
+	100426	Maza p/albañil c/cabo de 1000gr LyL	unidad		36	0.55	135			3/9/15		15/6/15	Ferretería
+7798172001866	100427	Remachadora universal Biassoni	unidad		107	0.55	384			3/9/15	1	15/6/15	Ferretería
+	100428	Serrucho p/podar curvo Det.Japones Biassoni 330	unidad	250.84	212.46148	0.50	461			3/9/15		15/6/15	Ferretería
+	100429	Serrucho p/podar Tramontina	unidad		46.04	0.80	184			3/9/15		15/6/15	Ferretería
+	100430	Poxiran 90gr	unidad		22.5	0.60	80			3/9/15		15/6/15	Ferretería
+7794122013071	100431	Poxiran 23gr	unidad	7.63	9.2323	0.85	33			3/9/15	32	15/6/15	Ferretería
+	100432	La Gotita 2ml	unidad	6.9	8.349	1.00	23			3/9/15		15/6/15	Ferretería
+7790400016727	100433	La Gotita Gel 3g	unidad	7.82	9.4622	1.00	26			3/9/15	2	15/6/15	Ferretería
+7790400014532	100434	Poxipol 16g	unidad	11.49	13.9029	0.65	44			3/9/15	34	15/6/15	Ferretería
+	100435	Poxilina 38ml	unidad		33.95	0.60	93			3/9/15		15/6/15	Ferretería
+7790400001990	100436	Poxilina 70g	unidad		40	0.60	123			3/9/15	1	15/6/15	Ferretería
+	100437	Fastix alta temperatura 25g	unidad		25.95	0.60	86			3/9/15		15/6/15	Ferretería
+7790400005271	100438	Fastix 25g	unidad		24.5	0.50	78			3/9/15	2	15/6/15	Ferretería
+7794122001856	100439	Fastix 100g	unidad		43.9	0.50	123			3/9/15	1	15/6/15	Ferretería
+	100440	Pulpito 50g	unidad		16.7	0.60	56			3/9/15		15/6/15	Ferretería
+7790400022841	100441	Pulpito 120g	unidad		24.71	0.60	86			3/9/15	1	15/6/15	Ferretería
+	100442	Masilla sintética Virabond 500gr	unidad		25.95	0.50	86			3/9/15		15/6/15	Ferretería
+	100443	SellaRoscas Hidro3 50cc	unidad		33.94	0.60	113			3/9/15		15/6/15	Ferretería
+	100444	Sellador IPS plus	unidad		23	0.60	85			3/9/15		15/6/15	Ferretería
+7795418000256	100445	Sellador roscas agua Duke 90gr	unidad	35.2	29.8144	1.00	103			3/9/15	1	15/6/15	Ferretería
+	100446	Sellador IPS fibrado plus 125cc	unidad	41.72	35.462	1.00	123			3/9/15		15/6/15	Ferretería
+	100447	Espuma poliuretánica SILOC 250ml	unidad		56.5	0.40	161			3/9/15		15/6/15	Ferretería
+	100448	Barra adhesiva p/pistola electrica fina	unidad	16.2	13.7214	0.60	38			3/9/15	100	15/6/15	Ferretería
+	100449	Barra adhesiva p/pistola electrica gruesa	unidad	16.2	13.7214	0.60	38			3/9/15	55	15/6/15	Ferretería
+	100450	Adhesivo Suprabond 25cc	unidad		12.95	0.60	46			3/9/15		15/6/15	Ferretería
+7793300419407	100451	Adhesivo Suprabond pomo cartucho 300ml	unidad		36.9	0.60	135			3/9/15	1	15/6/15	Ferretería
+	100452	Aplicador para pomo cartucho 300ml Amarilla Profesional	unidad		89.12	0.70	316			3/9/15	1	15/6/15	Ferretería
+	100453	Piedra p/afilar doble faz 152x50.8x25.4	unidad	70.736	59.913392	0.70	203			3/9/15		15/6/15	Ferretería
+7798102251644	100454	Chaira dentada de 10\" (rectificador/afilador cuchillos)	unidad	193.018	163.486246	0.60	457			3/9/15	3	15/6/15	Ferretería
+	100455	Cuchillo para asado c/mango	unidad		19	0.80	81			3/9/15		15/6/15	Ferretería
+	100456	Cuchillo Eskilstuna 364 p/cocina 5\" inox. Cabo madera	unidad	155.14	131.40358	0.80	415			3/9/15		15/6/15	Ferretería
+	100457	Cuchillo Eskilstuna 364 p/cocina 7\" inox. Cabo madera	unidad	175.6	148.7332	0.80	472			3/9/15		15/6/15	Ferretería
+	100458	Cuchillo Eskilstuna 364 p/cocina 9\" inox. Cabo madera	unidad	201.3	170.5011	0.80	540			3/9/15		15/6/15	Ferretería
+	100459	Cuchillo Eskilstuna 364 p/asado 5\" inox. Cabo madera	unidad		95.1	0.80	351			3/9/15		15/6/15	Ferretería
+	100460	Cuchillo Eskilstuna 364 p/carnicero 7\" inox. Cabo madera	unidad		129	0.80	478			3/9/15		15/6/15	Ferretería
+	100461	Nivel aluminio Petrus 500mm	unidad		46.26	0.60	163			3/9/15		15/6/15	Ferretería
+	100462	Plomada punto bob 300gr	unidad		55.5	0.60	201			3/9/15		15/6/15	Ferretería
+7798011346165	100463	Linterna metálica PRO1 6 LEDS IL-MIN16	unidad	28.55	34.5455	0.75	94			3/9/15	10	15/6/15	Ferretería
+	100464	Linterna SPINIT Minero (cabeza) mega 7 LEDs	unidad	79.26	95.9046	0.60	271			3/9/15		15/6/15	Ferretería
+	100465	Linterna Probattery Minero 2121-CPB c/pilas	unidad	77.271	93.49791	0.50	291			3/9/15		15/6/15	Ferretería
+	100466	Linterna Rayovac EVB2AA-BB (incl. Bat.)	unidad	19.46	23.5466	0.60	75			3/9/15		15/6/15	Ferretería
+	100467	Linterna Rayovac SJ-1006 2AA	unidad	17.24	20.8604	0.90	65			3/9/15		15/6/15	Ferretería
+	100468	Linterna Rayovac SJ-1005 2D	unidad	19.86	24.0306	1.00	80			3/9/15		15/6/15	Ferretería
+	100469	Linterna Rayovac VB1DLED-BA (incl. Bat.)	unidad	34.99	42.3379	0.60	125			3/9/15		15/6/15	Ferretería
+	100470	Linterna Rayovac industrial 2 pilas grandes	unidad		46.95	0.50	161			3/9/15		15/6/15	Ferretería
+	100471	Linterna Rayovac LED  1 pila grande	unidad		29.4	0.60	116			3/9/15		15/6/15	Ferretería
+	100472	Linterna Rayovac 11 LEDs recargable	unidad	72.04	87.1684	0.70	246			3/9/15		15/6/15	Ferretería
+	100473	Linterna Rayovac LEDs recargable mini	unidad	54	65.34	0.70	185			3/9/15		15/6/15	Ferretería
+7791756999696	100474	Estopa blanca de lustre El Cazador 300gr	unidad		22	0.60	76			3/9/15	2	15/6/15	Ferretería
+	100475	Cepillo Violin lavacoche	unidad		35.3	0.50	113			3/9/15		15/6/15	Ferretería
+	100476	Kit lavacoche cepillo/rejilla/esponja/franela	unidad		61.95	0.40	189			3/9/15		15/6/15	Ferretería
+7797622100470	100477	Tope para puerta circular Blanco 6u Diler	unidad		20.5	0.50	73			3/9/15	2	15/6/15	Ferretería
+	100478	Tope para puerta rectangular Blanco 4u Diler	unidad		16	0.50	55			3/9/15		15/6/15	Ferretería
+	100479	Caja de herramientas SAOPRO 12.5\" con divisor	unidad		63.23	1.00	231			3/9/15		15/6/15	Ferretería
+7791161005456	100480	Reja acero inox. Duratop 12x12cm	unidad		47.5	0.50	148			3/9/15	1	15/6/15	Ferretería
+7798078376167	100481	Reja acero inox. Casal 15x15cm	unidad		57.5	0.50	191			3/9/15	2	15/6/15	Ferretería
+7798078375313	100482	Reja ventilación 100cm2 15x15x2	unidad		62.95	0.50	198			3/9/15	2	15/6/15	Ferretería
+7798078377201	100483	Reja acero fundido 20x20	unidad		90.5	0.50	271			3/9/15	1	15/6/15	Ferretería
+	100484	Flotante plástico 25cm 779812021374	unidad		32.5	0.60	90			3/9/15		15/6/15	Ferretería
+7798102316015	100485	Flotante M 1/2 silencioso	unidad		39.95	0.60	110			3/9/15	1	15/6/15	Ferretería
+7798102316008	100486	Flotante H 1/2 silencioso	unidad		45.6	0.60	125			3/9/15	3	15/6/15	Ferretería
+	100487	Flotante para depósito de bado 1/2 H	unidad		43.33	0.50	126			3/9/15		15/6/15	Ferretería
+	100488	Flotante Egeo VIN 1/2 3/4 IBH	unidad		149.35	0.50	492			3/9/15		15/6/15	Ferretería
+	100489	Flotante plástico para tanque 3/4\"	unidad		13.7	1.00	58			3/9/15		15/6/15	Ferretería
+	100490	Flotante plástico para tanque chico 3/4\"	unidad		7.31	1.00	38			3/9/15		15/6/15	Ferretería
+7796860830453	100491	Flotante mochila extra chato ITALIAN	unidad		9.72	1.00	38			3/9/15	2	15/6/15	Ferretería
+7796860830071	100492	Flotante mochila ITALIAN	unidad		9.4	1.00	37			3/9/15	2	15/6/15	Ferretería
+	100493	Zócalo fijo 90cm aluminio/blanco	unidad		38	0.80	150			3/9/15	1	15/6/15	Ferretería
+7797622100159	100494	Burlete Vinilo 5mt gr Diler	unidad		27.25	0.80	110			3/9/15	1	15/6/15	Ferretería
+7797622100012	100495	Burlete Espuma autoadhesivo 5mt gr Diler	unidad		12	0.80	55			3/9/15	1	15/6/15	Ferretería
+	100496	Burlete Espuma autoadhesivo 5mt mediano Diler	unidad		28.5	0.80	93			3/9/15		15/6/15	Ferretería
+	100497	Burlete Espuma autoadhesivo 5mt mediano marron diler	unidad		23.5	0.70	91			3/9/15		15/6/15	Ferretería
+	100498	Soporte ángulo esquinero cromatizado 50mm	unidad		3.6	1.00	22			3/9/15	8	15/6/15	Ferretería
+	100499	Soporte ángulo esquinero cromatizado 64mm	unidad		3.91	1.00	27			3/9/15		15/6/15	Ferretería
+7797679217053	100500	Soporte ángulo 90 grados a 90 5 negros	unidad		25	0.60	81			3/9/15	1	15/6/15	Ferretería
+7797679401162	100501	Soporte lateral 200mm negro/blanco	unidad		16	0.70	66			3/9/15	4	15/6/15	Ferretería
+	100502	Manguera caño cristal económico 6x9mm	metro		1.58	1.40	14			3/9/15		15/6/15	Ferretería
+	100503	Tubo latex LTX 04x09mm	metro		46	0.70	113			3/9/15		15/6/15	Ferretería
+	100504	Calentador p/gas envasado común 10kg enlozado quemador	unidad	69.64	76.9522	0.60	211			3/9/15	3	15/6/15	Ferretería
+	100505	Regulador p/garrafa con manguera x2m	unidad	82.48	91.1404	0.60	249			3/9/15		15/6/15	Ferretería
+	100506	Regulador p/garrafa sin manguera	unidad	54.34	60.0457	0.60	164			3/9/15	1	15/6/15	Ferretería
+	100507	Frasco PVC cristal con tapa blanca/amarilla	unidad	3.49	3.80061	1.00	13	paquete completo	0.20	3/9/15	15	15/6/15	Ferretería
+	100508	Frasco 360cc Amanecer 63 (ancho y petiso)	unidad	2.067	2.250963	1.00	7	paquete completo s/tapa	0.20	3/9/15	1200	15/6/15	Ferretería
+	100509	Frasco 330cc Alba 63 RTO (alargado)	unidad	2.0026	2.1808314	1.00	7	paquete completo s/tapa	0.20	3/9/15	0	15/6/15	Ferretería
+	100510	Frasco 800cc Alba 70 BCO	unidad	3.5804	3.8990556	1.00	13	paquete completo s/tapa	0.20	3/9/15	432	15/6/15	Ferretería
+	100511	Botella Aceite cuadrado 5. 1/2 litro	unidad	4.1467	4.5157563	1.00	15	paquete completo	0.20	3/9/15	35	15/6/15	Ferretería
+	100512	Botella Tomate triturado 1 litro	unidad	3.9978	4.3536042	1.00	14	paquete completo	0.20	3/9/15	199	15/6/15	Ferretería
+	100513	Tapa LF 34-17 LIC (para botella aceite)	unidad	1.2209	1.19660409	1.00	4	paquete completo	0.20	3/9/15	62	15/6/15	Ferretería
+	100514	Inserto p/aceite	unidad	0.5711	0.55973511	1.00	2	paquete completo	0.20	3/9/15		15/6/15	Ferretería
+	100515	Tapa Corona 40mm	unidad	0.621	0.676269	1.00	2	paquete completo	0.20	3/9/15	98	15/6/15	Ferretería
+	100516	Tapa rosca Twes o	unidad	0.963	1.048707	1.00	3	paquete completo	0.20	3/9/15	1300	15/6/15	Ferretería
+	100517	Tapa rosca Twes grande	unidad	1.155	1.257795	0.70	4	paquete completo	0.20	3/9/15		15/6/15	Ferretería
+7798110950027	100518	Sobretapa plástica Ideal Sanitarios	unidad		26.46	0.60	73			3/9/15	4	15/6/15	Sanitarios y plomería
+7798110950058	100519	Arandela para tapa PVC Ideal Sanitarios	unidad		5.3	1.00	22			3/9/15	6	15/6/15	Sanitarios y plomería
+	100520	Escobilla plástica WC con depósito	unidad		54.95	0.50	141			3/9/15		15/6/15	Sanitarios y plomería
+7798110950317	100521	Tapón para pileta universal Ideal Sanitarios x2	bolsa		10.7	1.00	46			3/9/15	2	15/6/15	Sanitarios y plomería
+7796908019901	100522	Tapón para desagüe c/cadena cr FV	unidad		30	0.60	94			3/9/15	1	15/6/15	Sanitarios y plomería
+	100523	Sopapa desagüe armada completa	unidad		27.5	0.50	85			3/9/15		15/6/15	Sanitarios y plomería
+	100524	Desplazador inodoro 6cm plastitalia 	unidad		64.58	0.55	187			3/9/15		15/6/15	Sanitarios y plomería
+7796860204803	100525	Desplazador inodoro 12cm plastitalia 	unidad		75.14	0.55	218			3/9/15	1	15/6/15	Sanitarios y plomería
+	100526	Fuelle mochila std Ideal Sanitarios	unidad		17.95	0.65	59			3/9/15		15/6/15	Sanitarios y plomería
+	100527	Fuelle mochila largo Ideal Sanitarios	unidad		18.2	0.70	70			3/9/15		15/6/15	Sanitarios y plomería
+7798110951051	100528	Conexión depósito articulada	unidad		50.57	0.70	144			3/9/15	1	15/6/15	Sanitarios y plomería
+7791585009122	100529	Pack válvulas c/cuerito 3/4 x6u	unidad		46.1	0.60	126			3/9/15	3	15/6/15	Sanitarios y plomería
+	100530	Pack cueritos 1/2 x6u	bolsa		14.5	1.00	50			3/9/15		15/6/15	Sanitarios y plomería
+	100531	Pack cueritos 3/4 x6u	bolsa		13	1.00	50			3/9/15		15/6/15	Sanitarios y plomería
+7796860405545	100532	Sifón doble chato plastitalia	unidad		101.46	0.50	282			3/9/15	1	15/6/15	Sanitarios y plomería
+	100533	Ventosa con mango grande 	unidad		16.79	0.70	59			3/9/15		15/6/15	Sanitarios y plomería
+7796860307948	100534	Válvula descarga depósito mochila americana con flotante	unidad		82	0.50	189			3/9/15	2	15/6/15	Sanitarios y plomería
+	100535	Válvula admisión 1/2 779686030706	unidad		57	0.50	132			3/9/15		15/6/15	Sanitarios y plomería
+7796860307061	100536	Válvula admisión con brazo plástico	unidad		95	0.50	218			3/9/15	2	15/6/15	Sanitarios y plomería
+7796860601063	100537	Palito portarrollo italian plastico	unidad		7.05	1.00	31			3/9/15	2	15/6/15	Sanitarios y plomería
+7798110950041	100538	Tapa de inspección c/pulsador plástico	unidad		39.85	0.55	107			3/9/15	2	15/6/15	Sanitarios y plomería
+7796860800081	100539	Boya universal reg 	unidad		26	0.80	71			3/9/15	2	15/6/15	Sanitarios y plomería
+7796860802443	100540	Boya franklin tab 	unidad		32	0.80	89			3/9/15	2	15/6/15	Sanitarios y plomería
+7796860803051	100541	Boya franklin com	unidad		32	0.80	89			3/9/15	4	15/6/15	Sanitarios y plomería
+	100542	Boya mochila multimodelo italian	unidad		24.5	0.80	85			3/9/15		15/6/15	Sanitarios y plomería
+	100543	Boya depósito 779686080244	unidad		26	0.60	64			3/9/15		15/6/15	Sanitarios y plomería
+7796860800913	100544	Boya pesada depósito pared a palanquita Plastitalia	unidad		69	0.60	168			3/9/15	2	15/6/15	Sanitarios y plomería
+7798116801323	100545	Boya obturador IBH Egeo	unidad		66.44	0.50	187			3/9/15	1	15/6/15	Sanitarios y plomería
+	100546	Adhesivo PVC 100 INDA	unidad		17.72	0.70	50			3/9/15		15/6/15	Sanitarios y plomería
+	100547	Tubo PVC sanitario 63x1	unidad		42.64	0.45	107			3/9/15	3	15/6/15	Sanitarios y plomería
+	100548	Tubo PVC sanitario 50x1	unidad		32.75	0.45	83			3/9/15	5	15/6/15	Sanitarios y plomería
+	100549	Tubo PVC sanitario 40x1	unidad		26.27	0.45	67			3/9/15	3	15/6/15	Sanitarios y plomería
+	100550	Tubo PPL bicapa 1/2x4m	unidad		32	0.40	77			3/9/15	15	15/6/15	Sanitarios y plomería
+	100551	Tubo PPL bicapa 3/4x4m	unidad		45	0.35	102			3/9/15	5	15/6/15	Sanitarios y plomería
+	100552	Caño cloacal 110x4m kaliplas	unidad		142	0.35	331			3/9/15		15/6/15	Sanitarios y plomería
+	100553	Ramificación 90 PVC 110x63	unidad		37.68	0.50	98			3/9/15	1	15/6/15	Sanitarios y plomería
+7790312012664	100554	Ramificación 45 PVC 110x63	unidad		47.18	0.50	123			3/9/15	1	15/6/15	Sanitarios y plomería
+7790312012626	100555	Ramificación 45 PVC 40	unidad		16.55	0.50	45			3/9/15	3	15/6/15	Sanitarios y plomería
+	100556	Ramificación 90 PVC 63	unidad		24.52	0.50	67			3/9/15		15/6/15	Sanitarios y plomería
+7790312012602	100557	Ramificación 90 PVC 50	unidad		20.71	0.50	56			3/9/15	2	15/6/15	Sanitarios y plomería
+	100558	Ramificación 90 PVC 40	unidad		13.99	0.50	37			3/9/15		15/6/15	Sanitarios y plomería
+	100559	P Patio PVC 15x15	unidad		89.36	0.50	236			3/9/15		15/6/15	Sanitarios y plomería
+	100560	P Patio PVC 10x10	unidad		83.67	0.50	220			3/9/15		15/6/15	Sanitarios y plomería
+	100561	Rec ducha reja PVC	unidad		28.1	0.50	73			3/9/15		15/6/15	Sanitarios y plomería
+7790312012411	100562	Codo 90 PVC 110 3A	unidad		54.29	0.50	140			3/9/15	2	15/6/15	Sanitarios y plomería
+	100563	Codo 90 PVC 63	unidad		13.67	0.50	37			3/9/15		15/6/15	Sanitarios y plomería
+	100564	Codo 87 30 MH40MM	unidad		6.65	0.50	19			3/9/15		15/6/15	Sanitarios y plomería
+7790312012947	100565	Cupla PVC 110	unidad		26.2	0.50	67			3/9/15	4	15/6/15	Sanitarios y plomería
+7790312012930	100566	Cupla PVC 63	unidad		10.16	0.50	31			3/9/15	4	15/6/15	Sanitarios y plomería
+7790312012848	100567	Cupla PVC 50x40 reducción	unidad		6.14	0.50	28			3/9/15	2	15/6/15	Sanitarios y plomería
+	100568	Cupla PVC 63x50	unidad		10.15	0.50	28			3/9/15		15/6/15	Sanitarios y plomería
+	100569	Codo 87 PVC 110	unidad		44.65	0.50	129			3/9/15		15/6/15	Sanitarios y plomería
+	100570	Codo 87 PVC 110	unidad		44.65	0.50	119			3/9/15		15/6/15	Sanitarios y plomería
+7790312012435	100571	Caño cámara 110 TI	unidad		70.92	0.50	181			3/9/15	2	15/6/15	Sanitarios y plomería
+7790312012909	100572	Tapa PVC 110	unidad		8.57	0.50	24			3/9/15	5	15/6/15	Sanitarios y plomería
+	100573	Curva 90 PVC 63	unidad		13.67	0.50	36			3/9/15		15/6/15	Sanitarios y plomería
+	100574	Curva 90 PVC 50L	unidad		16.56	0.50	45			3/9/15	1	15/6/15	Sanitarios y plomería
+	100575	Curva 90 PVC 40L	unidad		10.74	0.50	28			3/9/15	1	15/6/15	Sanitarios y plomería
+	100576	Curva 45 PVC 40	unidad		8.57	0.50	24			3/9/15		15/6/15	Sanitarios y plomería
+	100577	Espiga codo R/H3/4	unidad		2.83	1.00	9			3/9/15		15/6/15	Sanitarios y plomería
+	100578	Espiga doble codo 3/4	unidad		3	1.00	10			3/9/15	4	15/6/15	Sanitarios y plomería
+	100579	Espiga doble codo 1/2	unidad		2.52	1.00	9			3/9/15		15/6/15	Sanitarios y plomería
+	100580	Espiga PPL 1/2\" rosca H 3/4\" 	unidad		1.61	1.00	8			3/9/15	2	15/6/15	Sanitarios y plomería
+	100581	Espiga PPL rosca H 1/2\"	unidad		1.61	1.00	8			3/9/15	3	15/6/15	Sanitarios y plomería
+	100582	Espiga PPL rosca M 1/2\"	unidad		2	1.00	4			3/9/15		15/6/15	Sanitarios y plomería
+	100583	Espiga PPL rosca M 3/4\"	unidad		2.52	1.00	8			3/9/15		15/6/15	Sanitarios y plomería
+	100584	Espiga PPL rosca H 3/4\"	unidad		1.63	1.00	7			3/9/15	4	15/6/15	Sanitarios y plomería
+	100585	Espiga PPL doble 3/4\"	unidad		3.2	1.00	5			3/9/15		15/6/15	Sanitarios y plomería
+	100586	Espiga PPL triple TE 3/4\"	unidad		2.62	1.00	10			3/9/15	2	15/6/15	Sanitarios y plomería
+	100587	Espiga PPL triple TE 1/2\"	unidad		2.02	1.00	9			3/9/15		15/6/15	Sanitarios y plomería
+	100588	Espiga PPL red R/M 1/2x3/4	unidad		2.86	1.00	8			3/9/15		15/6/15	Sanitarios y plomería
+	100589	Espiga PPL red R/H 1/2x3/4	unidad		6.44	0.72	11			3/9/15		15/6/15	Sanitarios y plomería
+	100590	Curva 90 PPL 1/2\" MH	unidad		7.94	0.73	21			3/9/15	1	15/6/15	Sanitarios y plomería
+	100591	Curva 90 PPL 3/4\" MH	unidad		5.34	0.80	25			3/9/15		15/6/15	Sanitarios y plomería
+	100592	Curva 90 PPL 1/2\" HH	unidad		6.7	0.62	16			3/9/15		15/6/15	Sanitarios y plomería
+	100593	Curva 90 PPL 3/4\" HH	unidad	1.1	0.935	2.00	22			3/9/15		15/6/15	Sanitarios y plomería
+	100594	Tapa PPL 1/2\"	unidad	1.5	1.275	2.00	4			3/9/15		15/6/15	Sanitarios y plomería
+	100595	Tapa PPL 3/4\" rosca hembra	unidad	1.37	1.1645	2.00	6			3/9/15	11	15/6/15	Sanitarios y plomería
+	100596	Tapón PPL 1/2\"	unidad	1.5	1.275	2.00	6			3/9/15	11	15/6/15	Sanitarios y plomería
+	100597	Tapón PPL 3/4\" rosca macho	unidad		2.27	0.78	6			3/9/15	7	15/6/15	Sanitarios y plomería
+	100598	RC Red PPL 3/4x1/2	unidad	1.29	1.0965	2.50	6			3/9/15	1	15/6/15	Sanitarios y plomería
+	100599	Rosca con tuerca (RCT) MM PPL 1/2	unidad	1.86	1.581	2.00	6			3/9/15		15/6/15	Sanitarios y plomería
+	100600	Rosca con tuerca (RCT) MM PPL 3/4	unidad		3.22	0.95	8			3/9/15		15/6/15	Sanitarios y plomería
+	100601	Rosca con tuerca (RCT) MM PPL 3/4x1/2	unidad	2.86	2.431	1.80	11			3/9/15		15/6/15	Sanitarios y plomería
+	100602	TEE PPL HHH 1/2	unidad	1.5	4.91	1.00	10			3/9/15	8	15/6/15	Sanitarios y plomería
+	100603	TEE PPL HHH 3/4	unidad	1.62	1.377	1.50	16			3/9/15	13	15/6/15	Sanitarios y plomería
+	100604	Niple PPL 1/2\" 5cm	unidad	2.4	2.04	1.50	6			3/9/15	1	15/6/15	Sanitarios y plomería
+	100605	Niple PPL 1/2\" 10cm	unidad	2.27	1.9295	1.50	8			3/9/15	8	15/6/15	Sanitarios y plomería
+	100606	Niple PPL 3/4\" 5cm	unidad	3.44	2.924	1.50	8			3/9/15	5	15/6/15	Sanitarios y plomería
+	100607	Niple PPL 3/4\" 10cm	unidad	1.17	0.9945	2.00	12			3/9/15	4	15/6/15	Sanitarios y plomería
+	100608	Buje reducción PPL 3/4x1/2	unidad		0.98	1.00	4			3/9/15	2	15/6/15	Sanitarios y plomería
+	100609	Buje PPL 1/2x3/8	unidad		1.99	1.00	4			3/9/15		15/6/15	Sanitarios y plomería
+	100610	CO 90PPMH 1/2 T	unidad	2.16	1.836	1.80	8			3/9/15		15/6/15	Sanitarios y plomería
+	100611	Codo 90 PPL 1/2 HH	unidad	2.25	1.9125	1.80	8			3/9/15	12	15/6/15	Sanitarios y plomería
+	100612	Codo 90 PPL 1/2 MH	unidad	3.42	2.907	1.20	9			3/9/15		15/6/15	Sanitarios y plomería
+	100613	Codo 90 PPL 3/4 HH	unidad	3.54	3.009	1.20	10			3/9/15		15/6/15	Sanitarios y plomería
+	100614	Codo 90 PPL 3/4 MH	unidad	1.75	1.4875	1.80	10			3/9/15	2	15/6/15	Sanitarios y plomería
+	100615	Cupla PPL HH 1/2	unidad	2.31	1.9635	1.80	6			3/9/15	6	15/6/15	Sanitarios y plomería
+	100616	Cupla PPL HH 3/4	unidad	4.63	3.9355	1.00	9			3/9/15	7	15/6/15	Sanitarios y plomería
+	100617	Codo 45 HH PPL 1/2	unidad	6.09	5.1765	1.00	13			3/9/15	3	15/6/15	Sanitarios y plomería
+	100618	Codo 45 HH PPL 3/4	unidad	6.98	5.933	1.60	16			3/9/15	6	15/6/15	Sanitarios y plomería
+	100619	Unión doble PPL 1/2	unidad	8.93	7.5905	1.50	25			3/9/15		15/6/15	Sanitarios y plomería
+	100620	Unión doble PPL 3/4	unidad		13.4	0.67	30			3/9/15	1	15/6/15	Sanitarios y plomería
+	100621	Union doble PPL 1\"	unidad		23.06	0.67	48			3/9/15	1	15/6/15	Sanitarios y plomería
+	100622	Adaptador tanque PPL 1/2	unidad		25.61	0.67	76			3/9/15	2	15/6/15	Sanitarios y plomería
+	100623	Adaptador tanque PPL 3/4	unidad		55.11	0.36	86			3/9/15	15	15/6/15	Sanitarios y plomería
+	100624	Flexible corrugado 42cm	unidad	19.139	16.210733	1.50	50			3/9/15	1	15/6/15	Sanitarios y plomería
+	100625	Flexible Mallado 1/2\"x30	unidad		55.11	0.36	147			3/9/15		15/6/15	Sanitarios y plomería
+	100626	Flexible Mallado 1/2\"x40	unidad	19.139	16.210733	1.50	170			3/9/15		15/6/15	Sanitarios y plomería
+	100627	Flexible plástico p/agua 1/2\"x30cm DUKE mallado	unidad	26.6	22.5302	0.90	68			3/9/15	2	15/6/15	Sanitarios y plomería
+	100628	Flexible plástico p/agua 1/2\"x40cm DUKE	unidad	15.26	12.92522	0.90	39			3/9/15		15/6/15	Sanitarios y plomería
+	100629	Flexible plástico p/agua 1/2\"x40cm liso gris	unidad	6.424	4.968964	3.00	34			3/9/15		15/6/15	Sanitarios y plomería
+	100630	Destapacañería Plus x1L Cauchet	unidad	19.46	15.05231	1.00	52			3/9/15		15/6/15	Sanitarios y plomería
+	100631	Descarga corrugada multimedida IT	unidad		14.62	0.70	45			3/9/15		15/6/15	Sanitarios y plomería
+7796860604023	100632	Chupete para canilla 1/2 x2 unidades	unidad		13.75	0.80	45			3/9/15	2	15/6/15	Sanitarios y plomería
+	100633	Tornillo universal para fijación inodoro/bidet	metro		25.89	0.50	67			3/9/15		15/6/15	Sanitarios y plomería
+9911222313216	100634	Lámpara colgante PVC 1Luz E27 15W Cristal/Naranja/Azul	unidad	0	74.95	0.40	243		0	30/12/15	2	15/6/15	Hogar y electrónicos
+	100635	Lámpara colgante chapa 31cm blanca LucesArgentinas	unidad	0	89	0.50	291		0	30/12/15	0	15/6/15	Hogar y electrónicos
+7798098681036	100636	Lámpara tortuga PVC	unidad	0	57.5	0.45	191		0	30/12/15	1	15/6/15	Hogar y electrónicos
+7796120014036	100637	Maceta plástica clásica 15cm	unidad	0	13.95	0.70	42		0	30/12/15	7	15/6/15	Hogar y electrónicos
+7796120014135	100638	Maceta plástica clásica 17cm	unidad	0	15.95	0.70	47		0	30/12/15	8	15/6/15	Hogar y electrónicos
+	100639	Maceta plástica clásica 19cm	unidad	0	20.95	0.70	61		0	30/12/15	0	15/6/15	Hogar y electrónicos
+	100640	Maceta plástica clásica 24cm	unidad	0	34.95	0.70	101		0	30/12/15	0	15/6/15	Hogar y electrónicos
+7796120201436	100641	Plato maceta plástico clásico n14	unidad	0	8.95	0.70	27		0	30/12/15	10	15/6/15	Hogar y electrónicos
+7796120201634	100642	Plato maceta plástico clásico n16	unidad	0	10.95	0.70	32		0	30/12/15	15	15/6/15	Hogar y electrónicos
+7796120201832	100643	Plato maceta plástico clásico n18	unidad	0	13.95	0.70	42		0	30/12/15	8	15/6/15	Hogar y electrónicos
+7796120202037	100644	Plato maceta plástico clásico n20	unidad	0	16.95	0.70	50		0	30/12/15	3	15/6/15	Hogar y electrónicos
+7796120202457	100645	Plato maceta plástico clásico n24	unidad	0	17.2	0.70	61		0	30/12/15	2	15/6/15	Hogar y electrónicos
+	100646	Organizador ducha d'accord	unidad	0	52.5	0.40	176		0	30/12/15	0	15/6/15	Hogar y electrónicos
+27242868823	100647	Auriculares Sony MDR-ZX110	unidad	233	281.93	0.70	647		0	30/12/15	4	15/6/15	Hogar y electrónicos
+27242801585	100648	Auriculares Sony MDR-ZX100/WCU B	unidad	233	281.93	0.70	647		0	30/12/15	1	15/6/15	Hogar y electrónicos
+27242813984	100649	Auriculares Sony MDR-E9A sin vincha	unidad	116	140.36	0.70	321		0	30/12/15	1	15/6/15	Hogar y electrónicos
+25215190315	100650	Auriculares Maxell vincha hp-200	unidad	61.5	74.415	0.75	178		0	30/12/15	6	15/6/15	Hogar y electrónicos
+	100651	Auriculares Maxell vincha ut-t ultrathins	unidad	77.911	94.27231	0.50	271		0	30/12/15	0	15/6/15	Hogar y electrónicos
+	100652	Auriculares Maxell in-225 plugs blancos 	unidad	47.31	57.2451	0.70	155		0	30/12/15	0	15/6/15	Hogar y electrónicos
+	100653	Auriculares Panasonic/Maxell negros sin vincha	unidad	36.88	44.6248	0.70	105		0	30/12/15	0	15/6/15	Hogar y electrónicos
+	100654	Auriculares Acson AS-063M.V.	unidad	48.601	58.80721	0.60	189		0	30/12/15	0	15/6/15	Hogar y electrónicos
+6932448289867	100655	Auriculares Acson AS-986	unidad	88.7	107.327	1.00	378		0	30/12/15	1	15/6/15	Hogar y electrónicos
+7896067203033	100656	Pilas Panasonic AAA x4	unidad	10.768	13.02928	1.30	45		0	30/12/15	41	15/6/15	Hogar y electrónicos
+7896067203170	100657	Pilas Panasonic AA x4	unidad	6.612	8.00052	1.30	27		0	30/12/15	29	15/6/15	Hogar y electrónicos
+	100658	Pilas Panasonic tipo-D x2	unidad	9.222	11.15862	1.30	45		0	30/12/15	1	15/6/15	Hogar y electrónicos
+7896067200025	100659	Pilas Panasonic tipo-C x2	unidad	8.204	9.92684	1.30	41		0	30/12/15	3	15/6/15	Hogar y electrónicos
+7506309816999	100660	Pilas Duracell AAA x1	unidad				15		0	30/12/15	97	15/6/15	Hogar y electrónicos
+7506309875347	100661	Pilas Duracell AAA x2	par	13.94	16.8674	0.70	39		0	30/12/15	60	15/6/15	Hogar y electrónicos
+7506309816937	100662	Pilas Duracell AA x1	unidad				13		0	30/12/15	75	15/6/15	Hogar y electrónicos
+7506309875330	100663	Pilas Duracell AA x2	par	12	14.52	0.70	34		0	30/12/15	21	15/6/15	Hogar y electrónicos
+41333000992	100664	Pilas Duracell mediana tipo-C x2	unidad	23.26	28.1446	0.70	65		0	30/12/15	8	15/6/15	Hogar y electrónicos
+41333000985	100665	Pilas Duracell Duralock tipo-D x2	unidad	30.3	36.663	0.70	84		0	30/12/15	20	15/6/15	Hogar y electrónicos
+41333001043	100666	Pilas Batería Duracell 9V MN-1604 B1	unidad	18.97	22.9537	0.70	53		0	30/12/15	8	15/6/15	Hogar y electrónicos
+8562012493	100667	Pilas Sony 364	unidad	4.53	5.4813	2.50	26		0	30/12/15	4	15/6/15	Hogar y electrónicos
+785618308839	100668	Pilas Renata 364	unidad	0	0	0.00	26		0	30/12/15	9	15/6/15	Hogar y electrónicos
+	100669	Pilas Sony 377	unidad	3.89	4.7069	2.50	25		0	30/12/15	0	15/6/15	Hogar y electrónicos
+785618325836	100670	Pilas Renata 377	unidad	0	0	0.00	25		0	30/12/15	49	15/6/15	Hogar y electrónicos
+8562012578	100671	Pilas Sony 371	unidad	5.871	7.10391	2.00	45		0	30/12/15	5	15/6/15	Hogar y electrónicos
+8562012639	100672	Pilas Sony 395	unidad	8.361	10.11681	2.00	53		0	30/12/15	5	15/6/15	Hogar y electrónicos
+8562012691	100673	Pilas Sony 394	unidad	12.51	15.1371	2.00	61		0	30/12/15	5	15/6/15	Hogar y electrónicos
+785618355833	100674	Pilas Renata 394	unidad	0	0	0.00	55		0	30/12/15	10	15/6/15	Hogar y electrónicos
+785618353822	100675	Pilas Renata 392	unidad	0	0	0.00	69		0	30/12/15	10	15/6/15	Hogar y electrónicos
+8562012479	100676	Pilas Sony 392-384	unidad	10.841	13.11761	2.00	65		0	30/12/15	4	15/6/15	Hogar y electrónicos
+	100677	Pilas Sony 389	unidad	18.801	22.74921	1.50	97		0	30/12/15	0	15/6/15	Hogar y electrónicos
+	100678	Pilas Renata 389	unidad	0	0	0.00	97		0	30/12/15	4	15/6/15	Hogar y electrónicos
+4902580131258	100679	Pilas Maxell CR-2032	unidad	0	0	0.00	25		0	30/12/15	167	15/6/15	Hogar y electrónicos
+4902580131265	100680	Pilas Sony CR-2025	unidad	4.09	4.9489	2.50	25		0	30/12/15	10	15/6/15	Hogar y electrónicos
+8562007628	100681	Pilas Sony CR-2016	unidad	4.09	4.9489	2.50	25		0	30/12/15	2	15/6/15	Hogar y electrónicos
+4902580131272	100682	Pilas Maxell CR-2016	unidad	0	0	0.00	25		0	30/12/15	10	15/6/15	Hogar y electrónicos
+4902580131401	100683	Pilas Maxell LR-44	unidad	2.03	2.4563	1.80	20		0	30/12/15	8	15/6/15	Hogar y electrónicos
+	100684	Pilas Camelion para calculadora AG10	unidad		1.2	2.50	20		0	30/12/15	0	15/6/15	Hogar y electrónicos
+	100685	Pilas Camelion para control alarma A23 c/u	unidad	6.5	7.865	2.50	66		0	30/12/15	4	15/6/15	Hogar y electrónicos
+9312931540243	100686	Pila Energizer 6V A544	unidad	22.5	27.225	1.00	107		0	30/12/15	2	15/6/15	Hogar y electrónicos
+7798019950333	100687	Calculadora DAHIATSU D-E805 8 dig	unidad	69.9	84.579	0.80	205		0	30/12/15	6	15/6/15	Hogar y electrónicos
+7798019950302	100688	Calculadora DAHIATSU D-E1215 12Dig	unidad	72.3	87.483	0.70	261		0	30/12/15	2	15/6/15	Hogar y electrónicos
+7798019950326	100689	Calculadora DAHIATSU D-E1200T 12Dig	unidad	64.16	77.6336	0.70	233		0	30/12/15	2	15/6/15	Hogar y electrónicos
+7798129532092	100690	Calculadora SUMAC científica fs-82F	unidad	53.69	64.9649	0.70	209		0	30/12/15	2	15/6/15	Hogar y electrónicos
+	100691	Calculadora CASIO MW-5V	unidad	76.68	92.7828	0.60	282		0	30/12/15	0	15/6/15	Hogar y electrónicos
+4971850169338	100692	Calculadora CASIO MW-8V	unidad	105	127.05	0.60	277		0	30/12/15	3	15/6/15	Hogar y electrónicos
+	100693	Calculadora Casio con celda solar mx-8s	unidad		64	0.55	228		0	30/12/15	0	15/6/15	Hogar y electrónicos
+	100694	Percha madera clara x8 unidades	unidad		50.69	0.90	191		0	30/12/15	0	15/6/15	Hogar y electrónicos
+7790204005910	100695	Percha plástica Practi-Hogar línea plata 	unidad		4.35	0.90	17		0	30/12/15	12	15/6/15	Hogar y electrónicos
+7797553110227	100696	Ganchos cortina baño amalfi x12 plásticos	unidad		31.5	0.55	115		0	30/12/15	1	15/6/15	Hogar y electrónicos
+	100697	Protector polietileno cortina baño 1.8mx1.8m	unidad		60.32	0.50	186		0	30/12/15	0	15/6/15	Hogar y electrónicos
+	100698	Cortina para baño	unidad		100	0.40	282		0	30/12/15	0	15/6/15	Hogar y electrónicos
+	100699	Banqueta plástico Eco blanca	unidad		32	0.30	96		0	30/12/15	0	15/6/15	Hogar y electrónicos
+	100700	Banqueta plástico negro Mascardi	unidad		38	0.30	115		0	30/12/15	0	15/6/15	Hogar y electrónicos
+	100701	Sillón plástico corona blanco	unidad		90.95	0.30	264		0	30/12/15	0	15/6/15	Hogar y electrónicos
+	100702	Silla plástica Nápoli negra Mascardi	unidad		106.5	0.40	248		0	30/12/15	0	15/6/15	Hogar y electrónicos
+	100703	Silla plástica Nápoli blanca Mascardi	unidad		142.8	0.40	331		0	30/12/15	0	15/6/15	Hogar y electrónicos
+	100704	Mesa 75cm 3 patas negra Mascardi	unidad		166	0.40	527		0	30/12/15	0	15/6/15	Hogar y electrónicos
+	100705	Mesa PL guinea redonda blanca	unidad		288	0.30	827		0	30/12/15	0	15/6/15	Hogar y electrónicos
+7791905002338	100706	Espiral Mosquitrap x1	caja		11.4	1.00	51		0	30/12/15	5	15/6/15	Hogar y electrónicos
+7791905002345	100707	Tableta Mosquitrap x12	unidad		8.4	1.00	38		0	30/12/15	6	15/6/15	Hogar y electrónicos
+	100708	Raid aparato para tableta 	unidad		20.5	0.50	68		0	30/12/15	0	15/6/15	Hogar y electrónicos
+	100709	Off spry extra duración 200cm3	unidad		35	0.50	103		0	30/12/15	0	15/6/15	Hogar y electrónicos
+	100710	Hermético \"tupper\" cuadrado 11.5x5cm	unidad		11.95	0.80	44		0	30/12/15	0	15/6/15	Hogar y electrónicos
+	100711	Set x3 \"tupper\" hermético 	unidad		40.13	0.80	140		0	30/12/15	0	15/6/15	Hogar y electrónicos
+	100712	Palita angosta mango madera p/jardín	unidad		23.5	0.60	75		0	30/12/15	0	15/6/15	Hogar y electrónicos
+	100713	Pulverizador gatillo 500ml	unidad		13.95	0.60	44		0	30/12/15	0	15/6/15	Hogar y electrónicos
+6914280097961	100714	Pulverizador gatillo 1L	unidad		16.95	0.80	56		0	30/12/15	1	15/6/15	Hogar y electrónicos
+	100715	Reloj de pared 22.5x4.1x1cm	unidad		84.95	0.50	262		0	30/12/15	0	15/6/15	Hogar y electrónicos
+	100716	Reloj despertador E 13/174 10.23.33	unidad	47.98	58.0558	0.50	166		0	30/12/15	0	15/6/15	Hogar y electrónicos
+	100717	Cable 3.5 Stereo M/M 1	unidad		20	0.75	68		0	30/12/15	0	15/6/15	Hogar y electrónicos
+	100718	Cable 3.5 Stereo prolongación	unidad		21	0.75	75		0	30/12/15	3	15/6/15	Hogar y electrónicos
+C11117N	100719	Cable USB A/B 2.0 (para impresora)	unidad		29	0.75	95		0	30/12/15	2	15/6/15	Hogar y electrónicos
+	100077	Cable prolongación USB 2.0	unidad		42	0.60	133		0	30/12/15	1	15/6/15	Hogar y electrónicos
+	100078	Cable audio RCAx2	unidad		17	0.75	60		0	30/12/15	2	15/6/15	Hogar y electrónicos
+4711162041973	100720	Cable armado RJ45 - Patch cord	unidad		16	0.75	56		0	30/12/15	1	15/6/15	Hogar y electrónicos
+	100071	Conector RJ45 Plug Nivel5	unidad		1.5	1.50	9		0	30/12/15	20	15/6/15	Hogar y electrónicos
+	100072	Adaptador 1 RCA a plug	unidad		9	0.75	33		0	30/12/15	4	15/6/15	Hogar y electrónicos
+	100073	Adaptador 3.5 Stereo PL /2	unidad		12	0.75	40		0	30/12/15	3	15/6/15	Hogar y electrónicos
+	100074	Adaptador 3.5 Stereo a RCA	unidad		9	0.75	35		0	30/12/15	3	15/6/15	Hogar y electrónicos
+	100075	Adaptador Plug 6.3 MO	unidad		7.5	0.75	33		0	30/12/15	4	15/6/15	Hogar y electrónicos
+	100076	Adaptador 6.3 stereo plug	unidad		10	0.75	35		0	30/12/15	2	15/6/15	Hogar y electrónicos
+740617183443	100721	Memoria Micro SD 8GB con adapt. SD Kingston	unidad	104.8	126.808	0.70	312		0	30/12/15	2	15/6/15	Hogar y electrónicos
+	100068	Pendrive 16GB Kingston	unidad	162	196.02	0.70	482		0	30/12/15	0	15/6/15	Hogar y electrónicos
+	100069	Tapa/válvula termo SPINT con LED todos los tamaños	unidad	46.73	56.5433	0.60	173		0	30/12/15	1	15/6/15	Hogar y electrónicos
+	100070	Radio bolsillo DAHIATSU D-RK 9	unidad	116.67	141.1707	0.60	399		0	30/12/15	0	15/6/15	Hogar y electrónicos
+	20420	Guirnalda art.20420	unidad		10	1.00	34			30/12/15	0	15/6/15	Navidad y juguetes
+	60070	Adorno bolas grandes art.60070	unidad		24	1.00	82			30/12/15	0	15/6/15	Navidad y juguetes
+	60060	Adorno bolas medianas art.60060	unidad		18	1.00	61			30/12/15	0	15/6/15	Navidad y juguetes
+	60050	Adorno bolas chicas art.60050	unidad		16	1.00	55			30/12/15	0	15/6/15	Navidad y juguetes
+	60040	Adorno bolas mini art.60040	unidad		14	1.00	48			30/12/15	0	15/6/15	Navidad y juguetes
+	90449	Adorno bolas mini cuadritos art. 90449	unidad		14	1.20	53			30/12/15	0	15/6/15	Navidad y juguetes
+	90450	Adorno bolas mini ralladas art. 90450	unidad		14	1.20	53			30/12/15	0	15/6/15	Navidad y juguetes
+	90438	Adorno bolas medianas con brillante art.90438	unidad		35	1.00	120			30/12/15	0	15/6/15	Navidad y juguetes
+	90602	Adorno corazones brillantes art. 90602	unidad		20	1.00	68			30/12/15	0	15/6/15	Navidad y juguetes
+	90600	Puntero para pinito chico art.90600	unidad		10	1.20	38			30/12/15	0	15/6/15	Navidad y juguetes
+	8760	Puntero para pinito grande art.8760	unidad		35	1.00	120			30/12/15	0	15/6/15	Navidad y juguetes
+	78316	Campanitas art.78316	unidad		24	1.20	90			30/12/15	0	15/6/15	Navidad y juguetes
+	60080	Luces navideñas x100 multifunción 	unidad		25	1.20	94			30/12/15	0	15/6/15	Navidad y juguetes
+	987	Muñeca Frozen/Sofía	unidad		28	1.20	84			30/12/15	0	15/6/15	Navidad y juguetes
+6902015020667	90000	Pelota grande fútbol (Boca-River-Nike)	unidad		70	1.00	189			30/12/15	4	15/6/15	Navidad y juguetes
+	90001	Pelota inflable pinche	unidad		5.5	1.20	16			30/12/15	4	15/6/15	Navidad y juguetes
+	90002	Pelota inflable color	unidad		10	1.80	38			30/12/15	19	15/6/15	Navidad y juguetes
+2015364977712	90009	Autitos fast furi Hot-wheels	caja		17	1.20	51			30/12/15	7	15/6/15	Navidad y juguetes
+	90010	Autitos Racer AB-1	bolsa		5	1.20	15			30/12/15	2	15/6/15	Navidad y juguetes
+	90011	Bolitas	bolsa		9	1.20	27			30/12/15	8	15/6/15	Navidad y juguetes
+	90012	Pelotita personajes AA-12 y  CH	unidad		8.333333333	1.20	24			30/12/15	37	15/6/15	Navidad y juguetes
+	90013	Pelotita con luz	unidad		12	1.20	35			30/12/15	0	15/6/15	Navidad y juguetes
+	90014	Cajita Lego	unidad		15	1.20	45			30/12/15	54	15/6/15	Navidad y juguetes
+	90015	Peluches todos	unidad		70	1.00	189			30/12/15	9	15/6/15	Navidad y juguetes
+	90016	Naruto	unidad		23.33333333	1.00	63			30/12/15	24	15/6/15	Navidad y juguetes
+4000080115225	90016	Minions	pack		20	1.00	54			30/12/15	3	15/6/15	Navidad y juguetes
+6980389785689	90017	Avengers	pack		24	1.00	65			30/12/15	15	15/6/15	Navidad y juguetes
+	90018	Animales bolsa	bolsa		60	1.00	162			30/12/15	0	15/6/15	Navidad y juguetes
+5428976898974	90019	Dinosaurios 	bolsa		7.5	1.00	20			30/12/15	16	15/6/15	Navidad y juguetes
+	90020	Superhéroes	unidad		50	1.00	135			30/12/15	1	15/6/15	Navidad y juguetes
+6953441500599	90021	Transformers	unidad		65	1.00	176			30/12/15	2	15/6/15	Navidad y juguetes
+	100000	Caño riego 40mm x6mts Junta Pegar Clase 6 Tigre	unidad	0	49.56	0.60	0	50 caños	0.10	30/12/15	0	15/6/15	Riego
+	100001	Caño riego 50mm x6mts Junta Pegar Clase 4 Tigre	unidad	0	54	0.60	0	50 caños	0.10	30/12/15	0	15/6/15	Riego
+	100002	Caño riego 63mm x6mts Junta Pegar Clase 4 Tigre	unidad	0	79	0.64	0	50 caños	0.10	30/12/15	0	15/6/15	Riego
+	100003	Caño riego 75mm x6mts Junta Pegar Clase 4 Tigre	unidad	0	116.7	0.60	0	50 caños	0.10	30/12/15	0	15/6/15	Riego
+	100004	Caño riego 90mm x6mts Junta Pegar Clase 4 Tigre	unidad	0	129.21	0.59	0	50 caños	0.10	30/12/15	10	15/6/15	Riego
+	100005	Caño riego 110mm x6mts Junta Pegar Clase 4 Tigre	unidad	0	290	0.60	0	30 caños	0.10	30/12/15	0	15/6/15	Riego
+	100006	Caño riego 140mm x6mts Junta Pegar Clase 4 Tigre	unidad	0	315.81	0.51	0	30 caños	0.10	30/12/15	0	15/6/15	Riego
+	100007	Caño riego 160mm x6mts Junta Goma Clase 4 Tigre	unidad	0	450	0.47	0	30 caños	0.10	30/12/15	0	15/6/15	Riego
+	100008	Pegamento reforzado para caños x1/2 litro	unidad	0	88.33	0.61	0	10 tarros	0.10	30/12/15	0	15/6/15	Riego
+	100009	Manguera jardín reforzada BluePress 5 de 1/2\" x12.5m	rollo	350	296.45	0.70	839		0.00	30/12/15	0	15/6/15	Riego
+7798059060146	100010	Manguera jardín reforzada 1/2\" x25m	rollo	170.47	144.38809	1.00	443		0.00	30/12/15	1	15/6/15	Riego
+	100011	Manguera jardín reforzada 3/4\" x25m	rollo	0	220	0.80	915		0.00	30/12/15	0	15/6/15	Riego
+	100012	Regador plástico 3 brazos ROOTS Garden	unidad	0	42	0.60	163		0.00	30/12/15	0	15/6/15	Riego
+8011568777725	100013	Regador plástico zapito código roc1	unidad	0	27.5	0.45	103		0.00	30/12/15	2	15/6/15	Riego
+	100014	Lanza de riego 1/2\" codigo roc0	unidad	0	34.5	0.45	123		0.00	30/12/15	0	15/6/15	Riego
+	100015	Manguera ciega PE 16mm - k2.5 NETAFIM	metro	0	2	1.00	14	rollo x 500m	0.10	30/12/15	0	15/6/15	Riego
+	100016	Manguera ciega PE 20mm - k2.5 NETAFIM	metro	0	4.2	1.00	22	rollo x 300m	0.10	30/12/15	250	15/6/15	Riego
+	100017	Codo espiga 20x20	unidad	0	2.8	1.07	14		0.00	30/12/15	46	15/6/15	Riego
+	100018	TE espiga 16x16x16	unidad	0	2.8	1.07	14		0.00	30/12/15	8	15/6/15	Riego
+	100019	Conector espiga 16x16	unidad	0	1.2	1.00	7		0.00	30/12/15	3	15/6/15	Riego
+	100020	Conector espiga 20x20	unidad	0	1.8	1.00	9		0.00	30/12/15	35	15/6/15	Riego
+	100021	TE espiga 20x20x20	unidad	0	4.2	1.00	17		0.00	30/12/15	37	15/6/15	Riego
+	100022	Conector inicial 20 mm	unidad	0	2.2	1.03	12		0.00	30/12/15	50	15/6/15	Riego
+	100023	Conector inicial 16 mm	unidad	0	1.6	1.05	9		0.00	30/12/15	50	15/6/15	Riego
+	100024	Goma para conector inicial	unidad	0	1.2	1.00	7		0.00	30/12/15	50	15/6/15	Riego
+	100025	final de línea 16	unidad	0	0.7	1.00	5		0.00	30/12/15	50	15/6/15	Riego
+	100026	final de línea 20	unidad	0	1	0.90	7		0.00	30/12/15	50	15/6/15	Riego
+	100027	GLIF AMONIO - Herbicida	litro	0	30	0.80	155	20 litros	0.30	30/12/15	0	15/6/15	Agro y agro-químicos
+	100028	Round-up Full II ó Bayer Herbicida	litro	0	80.95	1.50	323	20 litros	0.30	30/12/15	0	15/6/15	Agro y agro-químicos
+	100029	COTNION 20SC - Insecticida/Acaricida	litro	0	70	0.80	302	0	0.00	30/12/15	0	15/6/15	Agro y agro-químicos
+	100030	Calypso Bayer 400ml - Insecticida/Acaricida	unidad	0	328	0.60	1100	0	0.00	30/12/15	0	15/6/15	Agro y agro-químicos
+7790791061504	100031	Formidor Cebo granulado 500gr - Hormiguicida/Insecticida	bolsa	0	26.11	0.80	91	0	0.00	30/12/15	8	15/6/15	Agro y agro-químicos
+AINSDLIN0000001	100032	Cafulgor 1Kg Hormiguicida/Insecticida/Gorgojicida. polvo seco	unidad	0	44	1.20	186	0	0.00	30/12/15	2	15/6/15	Agro y agro-químicos
+	100033	Cafulgor Plus 250gr Hormiguicida/Insecticida. polvo seco	unidad	0	18	1.00	78	0	0.00	30/12/15	0	15/6/15	Agro y agro-químicos
+	100034	Ridomil Gold. Fungicida	Kg	0	251	0.64	792	Caja 5Kg	0.30	30/12/15	1	15/6/15	Agro y agro-químicos
+	100035	SW30 Coadyudante Adherente Biodegradable	litro	0	22	0.82	106	5 litros	0.30	30/12/15	0	15/6/15	Agro y agro-químicos
+	100036	18/46	kg	0	7.8	0.90	24	50 kg	0.30	30/12/15	750	15/6/15	Agro y agro-químicos
+	100037	Urea Nitrogran 46 GRAN	kg	0	6.6	0.90	22	50 kg	0.30	30/12/15	750	15/6/15	Agro y agro-químicos
+	100038	Triple 15 Arrancador Mosaic 612 KA	kg	0	5.2	1.07	24	50 kg	0.30	30/12/15	0	15/6/15	Agro y agro-químicos
+	100039	Fosfato Monoamonico Plus (11-52-0)	kg	0	6.86	0.97	36	50 kg	0.30	30/12/15	0	15/6/15	Agro y agro-químicos
+	100040	Post-cosecha 5-34-0 más Azufre y Calcio	kg	0	6.86	0.97	32	50 kg	0.30	30/12/15	0	15/6/15	Agro y agro-químicos
+	100041	Avena blanca forrajera. 46-0-0	kg	0	5.66	1.00	28	20 kg	0.30	30/12/15	0	15/6/15	Agro y agro-químicos
+	100042	Caliga-K Savian - Fertilizante	litro	0	58.9	0.80	243	20 litros	0.30	30/12/15	0	15/6/15	Agro y agro-químicos
+	100043	Potasio Plus Savian - Fertilizante	litro	0	53.54	1.00	233	20 litros	0.30	30/12/15	0	15/6/15	Agro y agro-químicos
+	100044	Cadehumus - abono concentrado	litro	0	31.55	0.80	145	20 litros	0.30	30/12/15	0	15/6/15	Agro y agro-químicos
+	100045	Ferax - Fertilizante	litro	0	34	0.80	151	20 litros	0.30	30/12/15	0	15/6/15	Agro y agro-químicos
+	100046	Cadestim	litro	0	128.35	0.80	520	0		30/12/15	0	15/6/15	Agro y agro-químicos
+	100047	Biocad	litro	0	290	0.80	1160	0		30/12/15	0	15/6/15	Agro y agro-químicos
+	100048	Shooter Plus - Insecticida	litro	0	120	0.80	510	0		30/12/15	0	15/6/15	Agro y agro-químicos
+	100049	Semilla de Maíz Super Dulce 1441 Basso xkg (1kg aprox 9000s)	kg	0	28.1	1.00	154	0		30/12/15	2	15/6/15	Agro y agro-químicos
+	100050	Semilla Zapallo Coco Híbrido Basso	100gr	0	26.76	1.00	113	0		30/12/15	3	15/6/15	Agro y agro-químicos
+	100051	Semilla Zapallo Plomo/criollo	100gr	0	25	1.00	113	0		30/12/15	3	15/6/15	Agro y agro-químicos
+	100052	Semilla Zapallito de tronco Basso Híbrido Angelo F1 	100gr	0	63.14	1.00	267	0		30/12/15	0	15/6/15	Agro y agro-químicos
+	100053	Semilla Lechuga repollada 	100gr	0	240	0.80	581	0		30/12/15	3	15/6/15	Agro y agro-químicos
+	100054	Semilla Tomate Seminis Hybrid Rodas x100 semillas	bolsa	0	43.2	1.00	180	0		30/12/15	10	15/6/15	Agro y agro-químicos
+	100055	Semilla Pimiento Cayman F1 x100 semillas	bolsa	0	53.12	1.00	223	0		30/12/15	10	15/6/15	Agro y agro-químicos
+	100056	Antiparacitario Meltra Plus Palatable hasta 20kg	caja	0	22	1.00	101	0		30/12/15	0	15/6/15	Agro y agro-químicos
+	100057	Pipeta antigarrapata/pulga PowerUltra 11-20kg y 20-40kg	caja	0	35	0.80	142	0		30/12/15	1	15/6/15	Agro y agro-químicos
+	100058	Bolsa nuecera 56x98	unidad	0	5.7	1.00	16	0		30/12/15	0	15/6/15	Agro y agro-químicos
+	100059	Bolsa papera 42x70 común	unidad	0	3.5	1.00	9	0		30/12/15	0	15/6/15	Agro y agro-químicos
+	100060	Pulverizadora Jacto 20 litros	unidad	0	1250	0.60	2700	0		30/12/15	0	15/6/15	Agro y agro-químicos
+	100061	Trituradora tomate/membrillo Villalobos	unidad	0	1150	0.80	2700	0		30/12/15	2	15/6/15	Agro y agro-químicos
+	100062	Máquina picadora carne 22	unidad	0	0	0.00	3500	0		30/12/15	1	15/6/15	Agro y agro-químicos
+	40000	Tijera Kit varias tijeras	unidad	0	43.7	1.00	119			30/12/15	0	15/6/15	Mercería. papelera y bolsas
+	40001	Tijera Kit 9010	unidad	0	38.5	1.00	104			30/12/15	2	15/6/15	Mercería. papelera y bolsas
+8436005902841	40002	Tijera Kit 9008	unidad	0	32.6	1.00	88			30/12/15	2	15/6/15	Mercería. papelera y bolsas
+	40003	Bobina hilo t120 450m c/bobina	unidad	0	4.5	1.50	15			30/12/15	190	15/6/15	Mercería. papelera y bolsas
+	40004	Aguja de mano	unidad	0	0.35	1.50	2			30/12/15	0	15/6/15	Mercería. papelera y bolsas
+	40005	Canasta agujas	unidad	0	2.15	5.00	20			30/12/15	27	15/6/15	Mercería. papelera y bolsas
+	40006	Alfiler común por unidad	unidad	0	0.05	1.50	0			30/12/15	235	15/6/15	Mercería. papelera y bolsas
+	40007	Alfiler cabeza perla por disco	unidad	0	1.66	1.50	10			30/12/15	12	15/6/15	Mercería. papelera y bolsas
+	40008	Alfiler gancho x12 unidades	unidad	0	1.22	3.50	12			30/12/15	17	15/6/15	Mercería. papelera y bolsas
+	40009	Alfiler gancho chico por unidad	unidad	0	0.08	3.50	1			30/12/15	107	15/6/15	Mercería. papelera y bolsas
+	40010	Cinta raso Arco Iris 10m art888 xmetro	metro	0	0.695	2.50	5			30/12/15	61	15/6/15	Mercería. papelera y bolsas
+	40011	Cinta argentina n1 xmetro	metro	0	0.747	2.50	5			30/12/15	3	15/6/15	Mercería. papelera y bolsas
+	40012	Cinta argentina n2 xmetro	metro	0	0.904	2.50	6			30/12/15	3	15/6/15	Mercería. papelera y bolsas
+	40013	Cinta argentina n3 xmetro	metro	0	1.388	2.50	9			30/12/15	8	15/6/15	Mercería. papelera y bolsas
+	40014	Broderie Guipure art10154	metro	0	4.862	1.50	22			30/12/15	13	15/6/15	Mercería. papelera y bolsas
+	40015	Puntilla 	metro	0	3	2.00	19			30/12/15	6	15/6/15	Mercería. papelera y bolsas
+	40016	Centímetro	unidad	0	1.61	2.00	10			30/12/15	4	15/6/15	Mercería. papelera y bolsas
+	40017	Lentejuelas x250 unidades	bolsa	0	1	4.00	10			30/12/15	4	15/6/15	Mercería. papelera y bolsas
+	40018	Talonario números 0 a 100	bolsa	3.99	3.99	1.00	12			30/12/15	6	15/6/15	Mercería. papelera y bolsas
+	40019	Talonario números 0 a 200	bolsa	6.66	6.66	1.00	22			30/12/15	9	15/6/15	Mercería. papelera y bolsas
+	40020	Rollo bolsas de arranque 15x20	unidad	13.005	15.73605	1.00	49			30/12/15	0	15/6/15	Mercería. papelera y bolsas
+	40021	Rollo bolsas de arranque 20x30	unidad	26.446	31.99966	1.00	99			30/12/15	0	15/6/15	Mercería. papelera y bolsas
+	40022	Rollo bolsas de arranque 25x35	unidad	26.446	31.99966	1.00	99			30/12/15	0	15/6/15	Mercería. papelera y bolsas
+	40023	Rollo bolsas de arranque 30x40	unidad	26.446	31.99966	1.00	99			30/12/15	0	15/6/15	Mercería. papelera y bolsas
+	40024	Bolsa camiseta 45x60 x100unidades	unidad	16.29	19.7109	1.00	61			30/12/15	0	15/6/15	Mercería. papelera y bolsas
+	40025	Bolsa zipper 5x7	unidad	0	0.3232	2.00	2			30/12/15	0	15/6/15	Mercería. papelera y bolsas
+	40026	Bolsa zipper 7x10	unidad	0	0.3232	2.00	2			30/12/15	0	15/6/15	Mercería. papelera y bolsas
+	40027	Bolsa zipper 12x17	unidad	0	0.4363	2.00	2			30/12/15	0	15/6/15	Mercería. papelera y bolsas
+	40028	Bolsa zipper 15x20	unidad	0	0.4996	2.00	2			30/12/15	0	15/6/15	Mercería. papelera y bolsas
+	40029	Bolsa zipper 17x25	unidad	0	0.5744	2.00	3			30/12/15	0	15/6/15	Mercería. papelera y bolsas
+	40030	Bolsa zipper 20x30	unidad	0	0.7099	2.00	3			30/12/15	0	15/6/15	Mercería. papelera y bolsas
+	40031	Bolsa zipper 25x35	unidad	0	0.85	2.00	4			30/12/15	0	15/6/15	Mercería. papelera y bolsas
+	40032	Bandas elásticas Flexibands x25gr	x25gr	0	2.25	3.50	16			30/12/15	0	15/6/15	Mercería. papelera y bolsas
+	40033	Bolsas de tejido para compras 35x50	unidad	4.959	6.00039	2.30	27			30/12/15	0	15/6/15	Mercería. papelera y bolsas
+	40034	Cordones por par	unidad		3	2.50	15			30/12/15	35	15/6/15	Mercería. papelera y bolsas
+	40035	Elástico angosto	metro	0	0	0.00	7			30/12/15	0	15/6/15	Mercería. papelera y bolsas
+	40036	Elástico mediano	metro	0	0	0.00	14			30/12/15	0	15/6/15	Mercería. papelera y bolsas
+	40037	Elástico ancho	metro	0	0	0.00	20			30/12/15	0	15/6/15	Mercería. papelera y bolsas
+7506284500463	50000	Zoquete PODE COMPUTADO	unidad	3	3.63	1.20	12			30/12/15	27	15/6/15	Ropa y accesorios
+	50001	Bombacha bebe Rub 46780039 39 	unidad	9.25	11.1925	1.20	34			30/12/15	2	15/6/15	Ropa y accesorios
+	50002	Bombacha media michifuz C 20460165 165	unidad	13.75	16.6375	1.20	57			30/12/15	34	15/6/15	Ropa y accesorios
+37960150	50003	Slip rayado antillas EL 37960270 270	unidad	13	15.73	1.20	53			30/12/15	32	15/6/15	Ropa y accesorios
+55145142	50004	Remera Jersey varón/nena CLA 51585115 5115	unidad	19	22.99	1.20	70			30/12/15	23	15/6/15	Ropa y accesorios
+	50005	Remera nena Modal Rich CO 52750730 730	unidad	19	22.99	1.20	78			30/12/15	4	15/6/15	Ropa y accesorios
+102510200	50006	Medias niños 0-1 elemento 102510202 1020	unidad	14	16.94	1.20	51			30/12/15	20	15/6/15	Ropa y accesorios
+102510200	50007	Medias niños 2-3 elemento 102510200 1020	unidad	14	16.94	1.20	51			30/12/15	22	15/6/15	Ropa y accesorios
+10251090	100063	Medias niños 4-5 elemento 102510200 1020	unidad	14	16.94	1.20	51			30/12/15	15	15/6/15	Ropa y accesorios
+	50008	Aros perla por dos cualquier tamaño  y color 11-203/1	el par	1.666666667	2.016666667	6.00	24			30/12/15	33	15/6/15	Ropa y accesorios
+	50009	Aros bola de fuego por dos 22-229/3	el par	12	14.52	1.50	62			30/12/15	19	15/6/15	Ropa y accesorios
+	50010	Colitas card medianas c/u 22-25/16	unidad	0.375	0.45375	3.00	3			30/12/15	0	15/6/15	Ropa y accesorios
+	50011	Colitas chiquitas colores c/u 22-255/2	unidad	0.2	0.242	3.00	2			30/12/15	0	15/6/15	Ropa y accesorios
+	50012	Gomitas c/u 11-82	unidad	0.19	0.2299	5.00	2			30/12/15	256	15/6/15	Ropa y accesorios
+	50013	Vincha colores c/u 72/1 al 72/3 22-72/1	unidad	5.5	6.655	2.00	34			30/12/15	5	15/6/15	Ropa y accesorios
+	50014	Hebilla banana c/u 22-256/4	unidad	4	4.84	2.00	25			30/12/15	8	15/6/15	Ropa y accesorios
+	50015	Broches mini c/u 11-73/1	unidad	0.26	0.3146	3.00	1			30/12/15	43	15/6/15	Ropa y accesorios
+	50016	Broches chicos c/u 11-73/11	unidad	0.22	0.2662	3.00	2			30/12/15	80	15/6/15	Ropa y accesorios
+	50017	Broches medianos negros y color Nylon 3 5079 el par	unidad	8.5	9.2565	1.80	39			30/12/15	37	15/6/15	Ropa y accesorios
+	50018	Picos para el pelo medianos c/u 22-79/2	unidad	1	1.21	3.00	8			30/12/15	0	15/6/15	Ropa y accesorios
+	50019	Invisibles Fashion Jewerly c/u 136/1 AL 4 22-136/1	unidad	0.111111111	0.134444444	3.00	1			30/12/15	0	15/6/15	Ropa y accesorios
+	50020	TicTac Fashion Jewerly c/u 22-35-3	unidad	1.4	1.694	2.00	9			30/12/15	4	15/6/15	Ropa y accesorios
+	50021	Set hebillas y colitas Fashion Jewerly 22-61/13	paquete	7	8.47	2.00	43			30/12/15	3	15/6/15	Ropa y accesorios
+	50022	Breteles color/transparente	bolsa	3.5	4.235	2.00	22			30/12/15	0	15/6/15	Ropa y accesorios
+	50024	Medias zoquetes deportivos x3	unidad	0	25	1.20	94			30/12/15	0	15/6/15	Ropa y accesorios
+	50025	Musculosa dama	unidad	0	22	1.20	83			30/12/15	3	15/6/15	Ropa y accesorios
+	50026	Remerón seda fría	unidad	0	60	1.20	225			30/12/15	2	15/6/15	Ropa y accesorios
+	50027	Musculosa dama con tachas	unidad	0	40	1.20	150			30/12/15	0	15/6/15	Ropa y accesorios
+	50028	Remera manga corta dama con tachas (japonesa)	unidad	0	45	1.20	169			30/12/15	0	15/6/15	Ropa y accesorios
+	50029	Short estampado New day	unidad	0	60	1.20	225			30/12/15	2	15/6/15	Ropa y accesorios
+	50030	Short liso Rulita	unidad	0	73	1.20	274			30/12/15	3	15/6/15	Ropa y accesorios
+	50031	Colitas medianas cualquier color - 11-231/7-2-5	unidad	0.604166667	0.6579375	3.00	4			30/12/15	146	15/6/15	Ropa y accesorios
+	50032	Colitas grandes cualquier color - 11-972/3-4	unidad	1.75	1.90575	1.50	8			30/12/15	16	15/6/15	Ropa y accesorios
+	50033	Colitas grandes cualquier color - 11-972/5-6	unidad	2.333333333	2.541	1.50	11			30/12/15	11	15/6/15	Ropa y accesorios
+	50034	Invisibles - blister x 12 - 11-37-1	unidad	0.597222222	0.650375	3.00	4			30/12/15	50	15/6/15	Ropa y accesorios
+	50035	Invisibles grandes - blister x 24 - 11-610-1	unidad	2.916666667	3.17625	1.20	13			30/12/15	14	15/6/15	Ropa y accesorios
+	50036	Broches grandes - cualquier color 	unidad	8.5	9.2565	1.80	39			30/12/15	35	15/6/15	Ropa y accesorios
+	50037	Broches chicos carey - 22-251/2	unidad	6	7.26	1.50	31			30/12/15	25	15/6/15	Ropa y accesorios
+	50038	Guante colores liso 	unidad	10	12.1	1.50	41			30/12/15	8	15/6/15	Ropa y accesorios
+	50039	Gorro Coya	unidad	20	24.2	1.00	65			30/12/15	10	15/6/15	Ropa y accesorios
+	50040	Gorro Liso	unidad	6	7.26	2.00	30			30/12/15	8	15/6/15	Ropa y accesorios
+	50041	Cuello Polar	unidad	12	14.52	1.50	49			30/12/15	9	15/6/15	Ropa y accesorios
+	50042	Pantalón friza adachi	unidad	50	60.5	1.00	162			30/12/15	8	15/6/15	Ropa y accesorios
+	10001	Ciudadela - Tom Medias Larga	unidad	0	22.22	1.20	76			30/12/15	0	15/6/15	Lencería dama
+	10002	Half Medias Tres Cuarto	unidad	0	18.15	1.20	62			30/12/15	0	15/6/15	Lencería dama
+	10003	Maidenform Conjunto Perlea Negro	unidad	0	155.54	1.00	421			30/12/15	0	15/6/15	Lencería dama
+	10004	Maidenform	unidad	0	186.82	1.00	505			30/12/15	1	15/6/15	Lencería dama
+	10005	Maidenform Conjunto Perlea Blanco	unidad	0	155.54	1.00	421			30/12/15	1	15/6/15	Lencería dama
+7790166091327	10007	Mora Panty Semi Opaca Brise	unidad	0	24.08	1.20	82			30/12/15	22	15/6/15	Lencería dama
+	10008	Mora Candy joven Cola Less	unidad	0	28.92	1.20	99			30/12/15	1	15/6/15	Lencería dama
+	10009	Mora Vedettina	unidad	0	26.56	1.20	91			30/12/15	2	15/6/15	Lencería dama
+	10010	Mora Cola Less	unidad	0	30.13	1.20	103			30/12/15	0	15/6/15	Lencería dama
+	10011	Mora Vedettina	unidad	0	31.34	1.20	107			30/12/15	2	15/6/15	Lencería dama
+	10012	Promesse Conjunto Push Taza Soft Septiembre y Culotte	unidad	0	228.07	1.00	616			30/12/15	1	15/6/15	Lencería dama
+	10013	Promesse Triángulo Soft Romantic y Vedetina	unidad	0	189.95	1.00	513			30/12/15	1	15/6/15	Lencería dama
+	10014	Promesse Conjunto Rojoy Vedetina Angels	unidad	0	188.68	1.00	510			30/12/15	1	15/6/15	Lencería dama
+	20000	Pañuelo	unidad	0	22.5	1.20	81			30/12/15	1	15/6/15	Ropa y accesorios
+	20001	Pañuelo	unidad	0	50	0.90	155			30/12/15	1	15/6/15	Ropa y accesorios
+	20002	Peine	unidad	0	10	1.20	36			30/12/15	0	15/6/15	Ropa y accesorios
+	20003	Tarjeteros	unidad	19.5	23.595	1.20	85			30/12/15	0	15/6/15	Ropa y accesorios
+	20004	Conjunto aro y collar con piedras	unidad	9	10.89	2.00	53			30/12/15	2	15/6/15	Ropa y accesorios
+	20005	Conjunto aro y collar con piedras	unidad	20.8	25.168	1.20	90			30/12/15	0	15/6/15	Ropa y accesorios
+	20006	Conjunto aro y collar con piedras	unidad	21	25.41	1.20	91			30/12/15	0	15/6/15	Ropa y accesorios
+	20007	Conjunto aro y collar con piedras	unidad	20	24.2	1.20	87			30/12/15	0	15/6/15	Ropa y accesorios
+	20008	Conjunto aro y collar con piedras	unidad	30	36.3	1.20	130			30/12/15	0	15/6/15	Ropa y accesorios
+	20009	Conjunto aro y collar con piedras	unidad	25	30.25	1.20	108			30/12/15	0	15/6/15	Ropa y accesorios
+	20010	Collares	Unidad	30	36.3	1.20	130			30/12/15	6	15/6/15	Ropa y accesorios
+	20011	Aros de acero	Unidad	18	21.78	1.20	78			30/12/15	3	15/6/15	Ropa y accesorios
+	20012	Aros de acero	Unidad	25	30.25	1.20	108			30/12/15	0	15/6/15	Ropa y accesorios
+	20013	Aros de acero	Unidad	26	31.46	1.20	103			30/12/15	2	15/6/15	Ropa y accesorios
+	20014	Aros H y B	Unidad	22.5	27.225	1.20	98			30/12/15	2	15/6/15	Ropa y accesorios
+	20015	Aros H y B	Unidad	16.5	19.965	1.20	72			30/12/15	3	15/6/15	Ropa y accesorios
+	20016	Aros H y B	Unidad	17.9	21.659	1.20	78			30/12/15	3	15/6/15	Ropa y accesorios
+	20017	Aros clip	Unidad	16.2	19.602	1.20	70			30/12/15	3	15/6/15	Ropa y accesorios
+	20018	Aros colgantes	Unidad	16.5	19.965	1.20	72			30/12/15	1	15/6/15	Ropa y accesorios
+	20019	Aros colgantes	Unidad	11.5	13.915	1.20	50			30/12/15	2	15/6/15	Ropa y accesorios
+	20020	Aros colgantes	unidad	5.5	6.655	1.20	24			30/12/15	3	15/6/15	Ropa y accesorios
+	20021	Aros clip	Unidad	17.8	21.538	1.20	77			30/12/15	4	15/6/15	Ropa y accesorios
+	20022	Pulseras de acero	Unidad	20	24.2	1.20	87			30/12/15	3	15/6/15	Ropa y accesorios
+	20023	Pulseras	Unidad	9.2	11.132	1.20	40			30/12/15	0	15/6/15	Ropa y accesorios
+	20024	Pulseras	Unidad	20.7	25.047	1.20	90			30/12/15	3	15/6/15	Ropa y accesorios
+	20025	Pulseras	Unidad	20	24.2	1.20	87			30/12/15	2	15/6/15	Ropa y accesorios
+	20026	Pulseras	Unidad	6.9	8.349	1.20	30			30/12/15	0	15/6/15	Ropa y accesorios
+	20027	Invisibles con strass x2	Unidad	7.333333333	8.873333333	1.20	32			30/12/15	4	15/6/15	Ropa y accesorios
+	20028	Anillos	unidad	17	20.57	1.20	74			30/12/15	3	15/6/15	Ropa y accesorios
+	20029	Anillos	unidad	12	14.52	1.20	52			30/12/15	3	15/6/15	Ropa y accesorios
+	20030	Anillos	unidad	5.4	6.534	1.20	23			30/12/15	0	15/6/15	Ropa y accesorios
+	20031	Anillos	unidad	15.4	18.634	1.20	67			30/12/15	4	15/6/15	Ropa y accesorios
+	20032	Anillos	unidad	26	31.46	1.20	113			30/12/15	3	15/6/15	Ropa y accesorios
+	20033	Anillos	unidad	14	16.94	1.20	61			30/12/15	3	15/6/15	Ropa y accesorios
+	20034	Pañuelo	unidad	18	21.78	1.20	78			30/12/15	0	15/6/15	Ropa y accesorios
+	20035	Anillos	unidad	19	22.99	1.20	82			30/12/15	7	15/6/15	Ropa y accesorios
+	20036	Billetera	unidad	0	35	1.20	126			30/12/15	0	15/6/15	Ropa y accesorios
+	20037	Billetera	unidad	0	50	1.20	179			30/12/15	0	15/6/15	Ropa y accesorios
+	20039	Pulseras	unidad	0	12	1.20	43			30/12/15	1	15/6/15	Ropa y accesorios
+	20040	Espejo para cartera	unidad	0	9	1.20	32			30/12/15	0	15/6/15	Ropa y accesorios
+	20041	Anteojos de sol	unidad	0	35	1.00	114			30/12/15	1	15/6/15	Ropa y accesorios
+	20042	Reloj Dakota plástico (Garantía 6 meses)	unidad	0	67	1.00	218			30/12/15	8	15/6/15	Ropa y accesorios
+	20043	Reloj Time (Garantía 6 meses)	unidad	0	60	1.00	196			30/12/15	3	15/6/15	Ropa y accesorios
+	20044	Reloj Dakota cuero (Garantía 6 meses)	unidad	0	104	1.00	339			30/12/15	3	15/6/15	Ropa y accesorios
+	20045	Reloj Oferta Geneva y Metal Oro	unidad	0	30	1.00	98			30/12/15	1	15/6/15	Ropa y accesorios
+	30000	Esmaltes opacos y perlados	unidad	10	10.89	1.20	39			30/12/15	2	15/6/15	Maquillaje
+7798121751712	30001	Quita esmalte Jactan's (tapa verde)	Unidad	8.5	10.285	1.20	38			30/12/15	11	15/6/15	Maquillaje
+7798121751699	30002	Quita esmalte Jactan's (tapa roja)	Unidad	8.5	10.285	1.20	38			30/12/15	8	15/6/15	Maquillaje
+7798121751705	30003	Quita esmalte Jactan's (tapa azul)	Unidad	8.5	10.285	1.20	38			30/12/15	8	15/6/15	Maquillaje
+	30004	Polvo rubor 	Unidad	19.5	23.595	1.20	86			30/12/15	3	15/6/15	Maquillaje
+	30005	Polvo rubor compacto	unidad	13.9	16.819	1.20	61			30/12/15	0	15/6/15	Maquillaje
+	30006	Maquillaje líquido	unidad	14.6	17.666	1.20	65			30/12/15	1	15/6/15	Maquillaje
+	30007	Máscara de pestañas	unidad	12.6	15.246	1.20	56			30/12/15	1	15/6/15	Maquillaje
+	30008	Delineador de ojos líquido y retráctil	unidad	16.7	18.1863	1.20	69			30/12/15	9	15/6/15	Maquillaje
+	30009	Delineador de ojos color	unidad	11.8	14.278	1.20	52			30/12/15	3	15/6/15	Maquillaje
+	30010	Delineador de ojos lápiz	unidad	5.8	7.018	1.20	26			30/12/15	2	15/6/15	Maquillaje
+	30011	Set pequeño de sombras para ojos	unidad	20.15	24.3815	1.20	89			30/12/15	0	15/6/15	Maquillaje
+	30012	Sombra para ojos	unidad	6	7.26	1.20	27			30/12/15	0	15/6/15	Maquillaje
+	30013	Sombra para ojos	unidad	8	9.68	1.20	35			30/12/15	4	15/6/15	Maquillaje
+	30014	Set grande de sombras para ojos	unidad	27	32.67	1.20	119			30/12/15	0	15/6/15	Maquillaje
+	30015	Lápiz labial	unidad	9.9	10.7811	1.20	42			30/12/15	44	15/6/15	Maquillaje
+	30017	Brillo labial	Unidad	18.8	20.4732	1.20	49			30/12/15	8	15/6/15	Maquillaje
+	30018	Corrector Ojeras	unidad	9.4	11.374	1.20	74			30/12/15	1	15/6/15	Maquillaje
+	30019	Pinza depilar negra Solingen	unidad	4.2	4.5738	1.20	42			30/12/15	13	15/6/15	Maquillaje
+	30020	Esmaltes con brillo	unidad	12	13.068	1.20	39			30/12/15	4	15/6/15	Maquillaje
+	100064	Aceite Oliva Hilal 0.5L vidrio	unidad			1.00	80			3/9/15			Regionales
+	100065	Morrones Hilal frasco	unidad			1.00	65			3/9/15			Regionales
+	100066	Aceitunas verdes chicas	unidad			1.00	35			3/9/15			Regionales
+	100067	Dulces y miel 	unidad			1.00	50			3/9/15	31		Regionales
