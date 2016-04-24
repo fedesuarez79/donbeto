@@ -2,7 +2,7 @@
 session_start();
 echo "<meta http-equiv='Content-type' content='text/html;charset=utf-8' />";
 
-/*probando git automatico 2*/
+/*siiiii???*/
 
 $conn = mysql_connect("localhost","fedesuarez","ambrosio"); 
 mysql_set_charset("utf8");
