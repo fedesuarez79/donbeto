@@ -30,14 +30,15 @@ echo "</tr></table>";
 if($_POST["categoria"]){
   echo "<form action='stock.php' method='post'>";
 
-  echo "<table border='1' style='width:100%'><tr><td align='center' style='width:5%'>Item id</td><td align='center' style='width:10%'>Código nuestro</td><td align='center' style='width:750%'>Descripción</td><td align='center' style='width:10%'>Stock</td></tr>";
+  echo "<table border='1' style='width:100%'><tr><td align='center' style='width:5%'>Item id</td><td align='center' style='width:10%'>Código barras</td><td align='center' style='width:10%'>Código nuestro</td><td align='center' style='width:750%'>Descripción</td><td align='center' style='width:10%'>Stock</td></tr>";
 
-  $sql="select item_id, codigo_nuestro, descripcion, stock from items where categoria=".$_POST["categoria"];
+  $sql="select item_id, codigo_nuestro, descripcion, stock, obsoleto, codigo_barras from items where categoria=".$_POST["categoria"]." order by descripcion";
   $result=mysql_query($sql,$conn) or die(mysql_error());
   while($fila = mysql_fetch_object($result)){
-    echo "<tr><td align='center'>".$fila->item_id."</td><td align='center'>".$fila->codigo_nuestro."</td><td>".$fila->descripcion."</td><td align='center'><input type='text' name='cantidad[]' value='".$fila->stock."' style='width: 40px'></td></tr>";
-  echo "<input type='hidden' name='id[]' value='".$fila->item_id."'>";
-    
+    if(!$fila->obsoleto){
+      echo "<tr><td align='center'>".$fila->item_id."</td><td align='center'>".$fila->codigo_barras."</td><td align='center'>".$fila->codigo_nuestro."</td><td>".$fila->descripcion."</td><td align='center'><input type='text' name='cantidad[]' value='".$fila->stock."' style='width: 40px'></td></tr>";
+      echo "<input type='hidden' name='id[]' value='".$fila->item_id."'>";
+    }
 
   }
   echo"</table>";

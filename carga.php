@@ -101,17 +101,17 @@ if($_POST["flag_venta"]==1 || $_SESSION['acumulado_ventas'][0] || $_POST["nuevo"
 <td><input type='text' name='iva' value='1.21' style='width: 40px;'</td>
 <td><input type='text' name='piva' value='1' style='width: 40px;'</td>
 <td><input type='text' name='feco' value='".date("Y-m-d")."' style='width: 65px;'</td>
-<td><input type='text' name='porc' value='.5' style='width: 25px;'</td>
+<td><input type='text' name='porc' value='1.3' style='width: 25px;'</td>
 <td></td>
 <td><input type='text' name='conm' value='' style='width: 60px;'</td>
 <td><input type='text' name='desm' value='0' style='width: 40px;'</td>
 <td><input type='text' name='ump' value='".date("Y-m-d")."' style='width: 65px;'</td>
 <td><input type='text' name='sto' value='0' style='width: 40px;'</td>
-<td><input type='text' name='coci' value='' style='width: 40px;'</td>
-<td><input type='text' name='cat' value='18' style='width: 60px;'</td>
+<td><input type='text' name='coci' value='0' style='width: 40px;'</td>
+<td><input type='text' name='cat' value='4' style='width: 60px;'</td>
 <td><input type='text' name='codp' value='' style='width: 40px;'</td>
 <td><input type='text' name='obs' value='0' style='width: 20px;'</td>
-<td><input type='text' name='prid' value='13' style='width: 25px;'</td>
+<td><input type='text' name='prid' value='18' style='width: 25px;'</td>
 <td><input type='text' name='pump' value='0' style='width: 40px;'</td>
 <td><input type='text' name='depi' value='0' style='width: 25px;'</td>
 <td><input type='text' name='frac' value='0' style='width: 40px;'</td>
