@@ -12,7 +12,7 @@ mysql_select_db("donbeto",$conn);
 echo "<h3>Venta:</h3>";
 echo "<table><tr><td>";
 echo "<form action='index.php' method='post'>";
-echo "Cantidad: <input type='number' name='cantidad' value='1' style='width: 40px;' min='1'>";
+echo "Cantidad: <input type='number' name='cantidad' value='1' style='width: 40px;' min='1' step='any'>";
 echo " Código: <input type='text' name='venta' autofocus='autofocus' value=''>";
 echo "<input type='hidden' name='flag_venta' value='1'>";
 echo" <input type='submit' value='Agregar'>";
@@ -47,7 +47,10 @@ if($_POST["flag_venta"]==1 || $_SESSION['acumulado_ventas'][0]){
     }
   }
   if($_SESSION['acumulado_ventas'][0] && !$_POST['flag_cerrar']){
-    if($_POST['flag_borrar'])unset($_SESSION['acumulado_ventas'][$_POST['borrar_item']]);
+    if($_POST['flag_borrar']){
+      unset($_SESSION['acumulado_ventas'][$_POST['borrar_item']]);
+      unset($_SESSION['acumulado_cantidades'][$_POST['borrar_item']]);
+    }
     $total_venta=0;
     echo "<table border='1' style='width:60%'><tr><td align='center'>Item</td><td align='center'>Cantidad</td><td align='center'>Descripción</td><td align='center'>Sub-total</td></tr>";
     foreach($_SESSION['acumulado_ventas'] as $key=>$valor){
@@ -136,26 +139,6 @@ if($_POST['flag_cerrar']){
 
 
 
-/******************/
-/*    BORRAR      *
-/******************/
-
-
-
-echo "<h3>Modificar venta:</h3>";
-echo"<table>";
-echo"<tr><td>";
-echo "<form action='index.php' method='post'>";
-echo "<input type='number' name='borrar_item' value=''>";
-echo "<input type='hidden' name='flag_borrar' value='1'>";
-echo" <input type='submit' value='Borrar ítem'>";
-echo" </form></td>";
-echo"<td>";
-echo "<form action='index.php' method='post'>";
-echo "<input type='hidden' name='limpiar' value='1'>";
-echo" <input type='submit' value='Limpiar todo'>";
-echo" </form></td></tr></table>";
-
 
 
 /******************/
@@ -181,15 +164,28 @@ if($_POST["name"]){
 
   while ($fila = mysql_fetch_row($result)) {
       if(!$fila[4]){
-	echo "<tr><td align='center'>$fila[0]</td><td align='center'>$fila[1]</td><td>$fila[2]</td><td align='center'>\$".round($fila[3],2)."</td></tr>"; 
+	if($fila[3]>50){
+	  $precio_venta=round($fila[3],0);
+	}else if($fila[3]>1){
+	  $precio_venta=round($fila[3],1);
+	}else{
+	  $precio_venta=round($fila[3],4);
+	}
       }else{
-
 	$sql = "select descripcion, costo_sin_iva, iva, marcado from items where item_id=".$fila[4];
 	$result3=mysql_query($sql,$conn) or die(mysql_error());
 	$fila3 = mysql_fetch_row($result3);
-	echo "<tr><td align='center'>$fila[0]</td><td align='center'>$fila[1]</td><td>$fila[2]</td><td align='center'>\$".round($fila3[1]*$fila3[2]*(1+$fila[6])/$fila[5],2)."</td></tr>"; 
-
+	$precio_venta=$fila3[1]*$fila3[2]*(1+$fila[6])/$fila[5]; 
+	if($precio_venta>50){
+	  $precio_venta=round($precio_venta,0);
+	}else if($precio_venta>1){
+	  $precio_venta=round($precio_venta,1);
+	}else{
+	  $precio_venta=round($precio_venta,4);
+	}
+	
       }
+      echo "<tr><td align='center'>$fila[0]</td><td align='center'>$fila[1]</td><td>$fila[2]</td><td align='center'>\$".$precio_venta."</td></tr>"; 
 
   }
   echo "</table>";
@@ -199,6 +195,26 @@ if($_POST["name"]){
 }
 
 
+
+/******************/
+/*    BORRAR      *
+/******************/
+
+
+
+echo "<h3>Modificar venta:</h3>";
+echo"<table>";
+echo"<tr><td>";
+echo "<form action='index.php' method='post'>";
+echo "<input type='number' name='borrar_item' value=''>";
+echo "<input type='hidden' name='flag_borrar' value='1'>";
+echo" <input type='submit' value='Borrar ítem'>";
+echo" </form></td>";
+echo"<td>";
+echo "<form action='index.php' method='post'>";
+echo "<input type='hidden' name='limpiar' value='1'>";
+echo" <input type='submit' value='Limpiar todo'>";
+echo" </form></td></tr></table>";
 
 
 ?>

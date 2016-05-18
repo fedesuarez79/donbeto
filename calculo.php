@@ -13,7 +13,7 @@ date_default_timezone_set("America/Argentina/Catamarca");
 
 
 
-$sql = "select * from ventas where fecha='2016-04-17'";
+$sql = "select * from ventas where fecha>='2016-04-04'";
 $result=mysql_query($sql,$conn) or die(mysql_error());
 $total_ganancia=0;
 $total_costo=0;

@@ -6,7 +6,7 @@ echo "<meta http-equiv='Content-type' content='text/html;charset=utf-8' />";
 $conn = mysql_connect("localhost","fedesuarez","ambrosio"); 
 mysql_set_charset("utf8");
 
-mysql_select_db("donbeto",$conn);
+mysql_select_db("minimarket",$conn);
 
 date_default_timezone_set("America/Argentina/Catamarca");
 
@@ -45,7 +45,7 @@ if($_POST["flag_venta"]==1 || $_SESSION['acumulado_ventas'][0] || $_POST["nuevo"
   if($_SESSION['acumulado_ventas'][0] && !$_POST['flag_cerrar'] || $_POST["nuevo"]){
     if($_POST['flag_borrar'])unset($_SESSION['acumulado_ventas'][$_POST['borrar_item']]);
     echo "<form action='carga.php' method='post'>";
-    echo "<table border='1' style='width:60%'><tr><td align='center'>Carga</td><td align='center'>Item id</td><td align='center'>Descripción</td><td align='center'>Código barras</td><td align='center'>Código nuestro</td><td align='center'>Unidad</td><td align='center'>Costo sin IVA</td><td align='center'>IVA</td><td align='center'>paga IVA</td><td align='center'>Fecha compra</td><td align='center'>%</td><td align='center'>Precio venta</td><td align='center'>Condición mayorista</td><td align='center'>Descuento mayorista</td><td align='center'>Última modificación precio</td><td align='center'>Stock</td><td align='center'>Costo con IVA</td><td align='center'>Categoría</td><td align='center'>Código proveedor</td><td align='center'>Obs</td><td align='center'>Prov id</td><td align='center'>Porcentaje última modificación precio</td><td align='center'>Depende id</td><td align='center'>Fracción dependencia</td></tr>";
+    echo "<table border='1' style='width:60%'><tr><td align='center'>Carga</td><td align='center'>Item id</td><td align='center'>Descripción</td><td align='center'>Código barras</td><td align='center'>Código nuestro</td><td align='center'>Unidad</td><td align='center'>Costo sin IVA</td><td align='center'>IVA</td><td align='center'>paga IVA</td><td align='center'>Fecha compra</td><td align='center'>%</td><td align='center'>Precio venta</td><td align='center'>Stock</td><td align='center'>Costo con IVA</td><td align='center'>Categoría</td><td align='center'>Código proveedor</td><td align='center'>Obs</td><td align='center'>Prov id</td><td align='center'>Depende id</td><td align='center'>Fracción dependencia</td></tr>";
 
     if(!$_POST['nuevo']){      
 
@@ -69,16 +69,12 @@ if($_POST["flag_venta"]==1 || $_SESSION['acumulado_ventas'][0] || $_POST["nuevo"
 <td><input type='text' name='feco' value='$fila[6]' style='width: 65px;'</td>
 <td><input type='text' name='porc' value='$fila[7]' style='width: 25px;'</td>
 <td>$fila[8]</td>
-<td><input type='text' name='conm' value='$fila[9]' style='width: 60px;'</td>
-<td><input type='text' name='desm' value='$fila[10]' style='width: 40px;'</td>
-<td><input type='text' name='ump' value='$fila[11]' style='width: 65px;'</td>
 <td><input type='text' name='sto' value='$fila[12]' style='width: 40px;'</td>
 <td>$fila[13]</td>
 <td><input type='text' name='cat' value='$fila[14]' style='width: 60px;'</td>
 <td><input type='text' name='codp' value='$fila[15]' style='width: 40px;'</td>
 <td><input type='text' name='obs' value='$fila[16]' style='width: 20px;'</td>
 <td><input type='text' name='prid' value='$fila[17]' style='width: 25px;'</td>
-<td><input type='text' name='pump' value='$fila[18]' style='width: 40px;'</td>
 <td><input type='text' name='depi' value='$fila[20]' style='width: 40px;'</td>
 <td><input type='text' name='frac' value='$fila[21]' style='width: 40px;'</td>
 </tr>"; 
@@ -103,16 +99,12 @@ if($_POST["flag_venta"]==1 || $_SESSION['acumulado_ventas'][0] || $_POST["nuevo"
 <td><input type='text' name='feco' value='".date("Y-m-d")."' style='width: 65px;'</td>
 <td><input type='text' name='porc' value='1.3' style='width: 25px;'</td>
 <td></td>
-<td><input type='text' name='conm' value='' style='width: 60px;'</td>
-<td><input type='text' name='desm' value='0' style='width: 40px;'</td>
-<td><input type='text' name='ump' value='".date("Y-m-d")."' style='width: 65px;'</td>
 <td><input type='text' name='sto' value='0' style='width: 40px;'</td>
 <td><input type='text' name='coci' value='0' style='width: 40px;'</td>
 <td><input type='text' name='cat' value='4' style='width: 60px;'</td>
 <td><input type='text' name='codp' value='' style='width: 40px;'</td>
 <td><input type='text' name='obs' value='0' style='width: 20px;'</td>
 <td><input type='text' name='prid' value='18' style='width: 25px;'</td>
-<td><input type='text' name='pump' value='0' style='width: 40px;'</td>
 <td><input type='text' name='depi' value='0' style='width: 25px;'</td>
 <td><input type='text' name='frac' value='0' style='width: 40px;'</td>
 
@@ -147,7 +139,7 @@ if($_POST['flag_cerrar']){
 	$sql = "select item_id from items where codigo_barras='$valor' or codigo_nuestro='$valor'";
 	$result=mysql_query($sql,$conn) or die(mysql_error());
 	$fila = mysql_fetch_row($result);
-	$sql = "update items set descripcion='".$_POST['desc']."', codigo_barras='".$_POST['codb']."', codigo_nuestro='".$_POST['codn']."', unidad='".$_POST['uni']."', costo_sin_iva=".$_POST['cosi'].", fecha_compra='".date("Y-m-d")."', marcado=".$_POST['porc'].", precio_venta=".($_POST['porc']+1)*$_POST['cosi']*$_POST['iva'].", condicion_mayorista='".$_POST['conm']."', descuento_mayorista=".$_POST['desm'].", ultima_modif_precio='".date("Y-m-d")."', stock=".$_POST['sto'].", costo_con_iva=".$_POST['cosi']*$_POST['iva'].", categoria='".$_POST['cat']."', codigo_proveedor='".$_POST['codp']."', obsoleto=".$_POST['obs'].", proveedor_id=".$_POST['prid'].", porcent_ult_mod_precio=".$_POST['pump'].", iva=".$_POST['iva'].", pag_iva=".$_POST['piva'].", depende_id=".$_POST['depi'].", fraccion=".$_POST['frac']." where item_id=$fila[0]";
+	$sql = "update items set descripcion='".$_POST['desc']."', codigo_barras='".$_POST['codb']."', codigo_nuestro='".$_POST['codn']."', unidad='".$_POST['uni']."', costo_sin_iva=".$_POST['cosi'].", fecha_compra='".date("Y-m-d")."', marcado=".$_POST['porc'].", precio_venta=".($_POST['porc']+1)*$_POST['cosi']*$_POST['iva'].", stock=".$_POST['sto'].", costo_con_iva=".$_POST['cosi']*$_POST['iva'].", categoria='".$_POST['cat']."', codigo_proveedor='".$_POST['codp']."', obsoleto=".$_POST['obs'].", proveedor_id=".$_POST['prid'].", iva=".$_POST['iva'].", pag_iva=".$_POST['piva'].", depende_id=".$_POST['depi'].", fraccion=".$_POST['frac']." where item_id=$fila[0]";
 	echo $sql."<br>";   
 	$result=mysql_query($sql,$conn) or die(mysql_error());
 	$sql="insert into histo_cargas set item_id=$fila[0], cantidad=".$_POST['sto'].", costo_sin_iva=".$_POST['cosi'].", marcado=".$_POST['porc'].", precio_venta=".($_POST['porc']+1)*$_POST['cosi']*$_POST['iva'].", fecha='".date("Y-m-d")."'";
@@ -157,9 +149,9 @@ if($_POST['flag_cerrar']){
     }else{
 
       if($_POST['cosi']){
-	$sql = "insert into items set descripcion='".$_POST['desc']."', codigo_barras='".$_POST['codb']."', codigo_nuestro='".$_POST['codn']."', unidad='".$_POST['uni']."', costo_sin_iva=".$_POST['cosi'].", fecha_compra='".date("Y-m-d")."', marcado=".$_POST['porc'].", precio_venta=".($_POST['porc']+1)*$_POST['cosi']*$_POST['iva'].", condicion_mayorista='".$_POST['conm']."', descuento_mayorista=".$_POST['desm'].", ultima_modif_precio='".date("Y-m-d")."', stock=".$_POST['sto'].", costo_con_iva=".$_POST['cosi']*$_POST['iva'].", categoria='".$_POST['cat']."', codigo_proveedor='".$_POST['codp']."', obsoleto=".$_POST['obs'].", proveedor_id=".$_POST['prid'].", porcent_ult_mod_precio=".$_POST['pump'].", iva=".$_POST['iva'].", pag_iva=".$_POST['piva'].", depende_id=".$_POST['depi'].", fraccion=".$_POST['frac'];
+	$sql = "insert into items set descripcion='".$_POST['desc']."', codigo_barras='".$_POST['codb']."', codigo_nuestro='".$_POST['codn']."', unidad='".$_POST['uni']."', costo_sin_iva=".$_POST['cosi'].", fecha_compra='".date("Y-m-d")."', marcado=".$_POST['porc'].", precio_venta=".($_POST['porc']+1)*$_POST['cosi']*$_POST['iva'].", stock=".$_POST['sto'].", costo_con_iva=".$_POST['cosi']*$_POST['iva'].", categoria='".$_POST['cat']."', codigo_proveedor='".$_POST['codp']."', obsoleto=".$_POST['obs'].", proveedor_id=".$_POST['prid'].", iva=".$_POST['iva'].", pag_iva=".$_POST['piva'].", depende_id=".$_POST['depi'].", fraccion=".$_POST['frac'];
       }else{
-	$sql = "insert into items set descripcion='".$_POST['desc']."', codigo_barras='".$_POST['codb']."', codigo_nuestro='".$_POST['codn']."', unidad='".$_POST['uni']."', costo_sin_iva=".$_POST['coci']/$_POST['iva'].", fecha_compra='".date("Y-m-d")."', marcado=".$_POST['porc'].", precio_venta=".($_POST['porc']+1)*$_POST['coci'].", condicion_mayorista='".$_POST['conm']."', descuento_mayorista=".$_POST['desm'].", ultima_modif_precio='".date("Y-m-d")."', stock=".$_POST['sto'].", costo_con_iva=".$_POST['coci'].", categoria='".$_POST['cat']."', codigo_proveedor='".$_POST['codp']."', obsoleto=".$_POST['obs'].", proveedor_id=".$_POST['prid'].", porcent_ult_mod_precio=".$_POST['pump'].", iva=".$_POST['iva'].", pag_iva=".$_POST['piva'].", depende_id=".$_POST['depi'].", fraccion=".$_POST['frac'];
+	$sql = "insert into items set descripcion='".$_POST['desc']."', codigo_barras='".$_POST['codb']."', codigo_nuestro='".$_POST['codn']."', unidad='".$_POST['uni']."', costo_sin_iva=".$_POST['coci']/$_POST['iva'].", fecha_compra='".date("Y-m-d")."', marcado=".$_POST['porc'].", precio_venta=".($_POST['porc']+1)*$_POST['coci'].", stock=".$_POST['sto'].", costo_con_iva=".$_POST['coci'].", categoria='".$_POST['cat']."', codigo_proveedor='".$_POST['codp']."', obsoleto=".$_POST['obs'].", proveedor_id=".$_POST['prid'].", iva=".$_POST['iva'].", pag_iva=".$_POST['piva'].", depende_id=".$_POST['depi'].", fraccion=".$_POST['frac'];
 
       }
 
