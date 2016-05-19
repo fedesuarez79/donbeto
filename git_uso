@@ -1,0 +1,7 @@
+# Para subir cambios:
+git add donbeto_20160519.dmp
+git commit -m "modificando backup db"
+git push origin master
+
+
+

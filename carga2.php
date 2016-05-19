@@ -6,7 +6,7 @@ echo "<meta http-equiv='Content-type' content='text/html;charset=utf-8' />";
 $conn = mysql_connect("localhost","fedesuarez","ambrosio"); 
 mysql_set_charset("utf8");
 
-mysql_select_db("minimarket",$conn);
+mysql_select_db("donbeto",$conn);
 
 date_default_timezone_set("America/Argentina/Catamarca");
 

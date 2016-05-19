@@ -59,22 +59,38 @@ if($_POST["flag_venta"]==1 || $_SESSION['acumulado_ventas'][0]){
       $result=mysql_query($sql,$conn) or die(mysql_error());
       $fila = mysql_fetch_row($result);
       if(!$fila[4]){
-	echo "<tr><td align='center'>$key</td><td align='center'>$cantidad2</td><td>$fila[2]</td><td align='center'>\$".round($fila[3]*$cantidad2,2)."</td></tr>"; 
-	$total_venta=round($total_venta+($fila[3]*$cantidad2),2);
+	$precio_venta=$fila[3]*$cantidad2; 
+	if($precio_venta>50){   //Redondeo
+	  $precio_venta=round($precio_venta,0);
+	}else if($precio_venta>1){
+	  $precio_venta=round($precio_venta,1);
+	}else{
+	  $precio_venta=round($precio_venta,4);
+	}
       }else{
-
 	$sql = "select descripcion, costo_sin_iva, iva, marcado from items where item_id=".$fila[4];
 	$result3=mysql_query($sql,$conn) or die(mysql_error());
 	$fila3 = mysql_fetch_row($result3);
-	echo "<tr><td align='center'>$key</td><td align='center'>$cantidad2</td><td>$fila[2]</td><td align='center'>\$".round($fila3[1]*$fila3[2]*(1+$fila[6])/$fila[5],2)*$cantidad2."</td></tr>"; 
-	$total_venta=$total_venta+(round($fila3[1]*$fila3[2]*(1+$fila[6])/$fila[5],2)*$cantidad2);
-
+	$precio_venta=$fila3[1]*$fila3[2]*(1+$fila[6])/$fila[5]*$cantidad2; 
+	if($precio_venta>50){  //Redondeo
+	  $precio_venta=round($precio_venta,0);
+	}else if($precio_venta>1){
+	  $precio_venta=round($precio_venta,1);
+	}else{
+	  $precio_venta=round($precio_venta,4);
+	} 
       }
- 
-    }
-  
+      $total_venta=$total_venta+$precio_venta;
+      echo "<tr><td align='center'>$key</td><td align='center'>$cantidad2</td><td>$fila[2]</td><td align='center'>\$".$precio_venta."</td></tr>"; 
 
-    echo "<tr><td></td><td></td><td align='right'><font size=6>Total: </font></td><td align='center'><font size=6>".round($total_venta,2)."</font></td></tr>";
+    }
+    echo "<tr><td></td><td></td><td align='right'><font size=5>Total: </font></td><td align='center'><font size=5>$".$total_venta."</font></td></tr>";
+    if($total_venta>=10){
+      $cobrar=(int)$total_venta;
+    }else{
+      $cobrar=$total_venta;
+    }
+    echo "<tr><td></td><td></td><td align='right'><font size=6 color='red'>Cobrar: </font></td><td align='center'><font size=6 color='red'>$".$cobrar.",00</font></td></tr>";
     echo "</table><br>";
     echo "<form action='index.php' method='post'>";
     echo "<input type='hidden' name='flag_cerrar' value='1'>";
