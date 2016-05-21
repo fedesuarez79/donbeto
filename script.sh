@@ -1,14 +1,24 @@
 #!/bin/bash
 
-
-# if no output from the remote ssh cmd, bail out
-if [ -z "git pull origin master" ]; then
-    echo "No results from remote repo listing (via SSH)"
-    exit
+#si no responde git salir
+comando=$(git pull origin master)
+if [ -z "$comando" ]; then
+	if [ -z "$comando" ]; then
+    		echo "No results from remote repo listing (via SSH)"
+    		exit
+	fi
 fi
+echo "git pull ok"
 
-echo "git responde ok"
 git add script*
 git commit -m "commiteando script desde donbeto"
-git push origin master
+comando=$(git push origin master)
+if [ -z "$comando" ]; then
+        if [ -z "$comando" ]; then
+                echo "No results from remote repo listing (via SSH)"
+                exit
+        fi
+fi
+echo "git push ok"
+
 
