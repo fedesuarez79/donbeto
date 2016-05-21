@@ -4,7 +4,7 @@
 comando=$(git pull origin master)
 if [ -z "$comando" ]; then
 	if [ -z "$comando" ]; then
-    		echo "No results from remote repo listing (via SSH)"
+    		echo "git pull no responde"
     		exit
 	fi
 fi
@@ -15,7 +15,7 @@ git commit -m "commiteando script desde donbeto"
 comando=$(git push origin master)
 if [ -z "$comando" ]; then
         if [ -z "$comando" ]; then
-                echo "No results from remote repo listing (via SSH)"
+                echo "git push no responde"
                 exit
         fi
 fi
