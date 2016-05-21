@@ -1,4 +1,7 @@
-fatal: unable to access 'https://github.com/fedesuarez79/donbeto.git/': Server aborted the SSL handshake
+U	script.log
+Pull is not possible because you have unmerged files.
+Please, fix them up in the work tree, and then use 'git add/rm <file>'
+as appropriate to mark resolution, or use 'git commit -a'.
 calculo.php
 carga.php
 carga2.php
