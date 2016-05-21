@@ -20,3 +20,8 @@ script.sh
 stock.php
 ventas_entry_20151203.txt.old
 ventas_entry_20160127.txt
+[master a0df191] commiteando script desde donbeto
+ 1 file changed, 22 insertions(+)
+ create mode 100644 script.log
+To https://github.com/fedesuarez79/donbeto.git
+   e9fa9bb..a0df191  master -> master
