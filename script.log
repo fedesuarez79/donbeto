@@ -1,3 +1,10 @@
+From https://github.com/fedesuarez79/donbeto
+ * branch            master     -> FETCH_HEAD
+   594fbc2..1499b5f  master     -> origin/master
+error: Your local changes to the following files would be overwritten by merge:
+	script.log
+Please, commit your changes or stash them before you can merge.
+Aborting
 calculo.php
 carga.php
 carga2.php
